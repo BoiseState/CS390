@@ -11,6 +11,10 @@ Phone: (208)426-3821
 Classhomepage: http://cs.boisestate.edu/~cshu390/   
 Emails: ajain@boisestate.edu & nilabmohammadmousa@bosiestate.edu   
 
+### Class Time and Location
+|     Session Dates     | TIme                  | Room    | Office Hours |
+|:---------------------:|-----------------------|---------|--------------|
+| 8/21/2017 -10/13/2017 | Monday4:30PM - 6:30PM | CCP 221 | TBD          |
 
 ### Catalog Description 
 CS-HU 390 TECHNICAL INTERVIEWS, JOBS, AND CAREERS (1-0-1)(F). Prepare students
