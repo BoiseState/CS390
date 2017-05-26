@@ -63,3 +63,39 @@ Week # Date Topic
 6 09/18 Mock Interviews  
 7 10/02 Mock Interviews  
 8 10/09 Careers: Finding a Good Fit and Negotiating [Industry Panel]  
+
+### Academic Honesty
+The University's goal is to foster an intellectual atmosphere that produces educated,
+literate people. Because cheating and plagiarism are at odds with that goal, those
+actions shall not be tolerated in any form. If a student engages in academic
+dishonesty, the student may be dismissed from the class and may receive a failing
+grade. Other penalties may include suspension or expulsion from the University. For
+much more information about academic integrity, including examples of academic
+dishonesty, see: http://cs.boisestate.edu/~buff/files/www-integrity.pdf
+
+### University Attendance Policy
+Students are expected to attend classes regularly. Missing one of two first classes
+may result in your automatic withdraw from the class. (See
+http://policy.boisestate.edu/academic-affairs-faculty-administration/policy-title-facult
+y-initiated-withdrawal/ )
+
+### Disability Office
+Students with disabilities needing accommodations to fully participate in this class
+should contact the Disability Resource Center (DRC). All accommodations must be
+approved through the DRC prior to being implemented. To learn more about the
+accommodation process, visit the DRC’s website http://drc.boisestate.edu/
+
+### Procedures for Breach of Academic Misconduct
+* First offense: Student will receive a 0 on the assignment and an Academic
+Misconduct Report Form will be submitted to the Office of the Dean of Students.
+* Second offense: Student will receive an F in the course and an Academic
+Misconduct Report Form will be submitted to the Office of the Dean of Students.
+* Academic Misconduct Form:
+http://deanofstudents.boisestate.edu/wp-content/uploads/2014/10/Academic_Disho
+nesty_Report_Form.pdf.  
+
+### Building Safety
+Knowing how to behave in an emergency situation is really important for students.
+Please revise CCP Building Safety Document at
+http://coen.boisestate.edu/cs/safetydocument/
+
