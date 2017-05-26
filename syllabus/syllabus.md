@@ -58,15 +58,16 @@ This class is graded as pass/fail courses in which you’ll received a final gra
 **Week 8:** Careers Discussion  
 
 ### Schedule (Tentative)
-Week # Date Topic
-1 08/21 Resume workshop  
-2 08/28 Technical Interviews, Behavioral Questions & Soft Skills  
-3 09/04 Data Structures  
-4 09/11 Algorithms, and Big-O  
-5 09/25 Recursion and Memoization  
-6 09/18 Mock Interviews  
-7 10/02 Mock Interviews  
-8 10/09 Careers: Finding a Good Fit and Negotiating [Industry Panel]  
+| Week # | Date  | Topic                                                        |
+|--------|-------|--------------------------------------------------------------|
+| 1      | 08/21 | Resume workshop                                              |
+| 2      | 08/28 | Technical Interviews, Behavioral Questions & Soft Skills     |
+| 3      | 09/04 | Data Structures                                              |
+| 4      | 09/11 | Algorithms, and Big-O                                        |
+| 5      | 09/25 | Recursion and Memoization                                    |
+| 6      | 09/18 | Mock Interviews                                              |
+| 7      | 10/02 | Mock Interviews                                              |
+| 8      | 10/09 | Careers: Finding a Good Fit and Negotiating [Industry Panel] |
 
 ### Academic Honesty
 The University's goal is to foster an intellectual atmosphere that produces educated,
