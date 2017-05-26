@@ -5,11 +5,11 @@
 
 ### Contact Information 
 
-Instructors:Dr.AmitJain&NilabMohammadMousa  
-Office:CCP355   
-Phone:(208)426-3821   
-Classhomepage:http://cs.boisestate.edu/~cshu390/   
-Email:ajain@boisestate.edu&nilabmohammadmousa@bosiestate.edu   
+Instructors: Dr.AmitJain&NilabMohammadMousa  
+Office: CCP355   
+Phone: (208)426-3821   
+Classhomepage: http://cs.boisestate.edu/~cshu390/   
+Emails: ajain@boisestate.edu & nilabmohammadmousa@bosiestate.edu   
 
 
 ### Catalog Description 
@@ -35,3 +35,31 @@ result in a grade penalty.
 This class is graded as pass/fail courses in which you’ll received a final grade of P or F. Note that a grade of F will impact your GPA. Passing grade is satisfactory work equivalent C- or higher ( https://registrar.boisestate.edu/grades/ ). Your grade will be computed based on the following:
 * Attendance - 50%
 * Class participation- 50%
+
+### Grading scale
+* 90% ≤ A- < 94% ≤ A < 97% ≤ A+
+* 80% ≤ B- < 84% ≤ B < 87% ≤ B+
+* 70% ≤ C- < 74% ≤ C < 77% ≤ C+
+* 60% ≤ D- < 64% ≤ D < 67% ≤ D+
+* F < 60%
+
+### Course Topic Outline
+**Week 1:** Technical writing (Resumes/Cover letters/ Email)  
+**Week 2:** Technical and Behavioral Interviews  
+**Week 3:** Review of Data Structures  
+**Week 4:** Review of Algorithms  
+**Week 5:** Review of Algorithms  
+**Week 6:** Mock Interviews  
+**Week 7:** Mock Interviews  
+**Week 8:** Careers Discussion  
+
+### Schedule (Tentative)
+Week # Date Topic
+1 08/21 Resume workshop  
+2 08/28 Technical Interviews, Behavioral Questions & Soft Skills  
+3 09/04 Data Structures  
+4 09/11 Algorithms, and Big-O  
+5 09/25 Recursion and Memoization  
+6 09/18 Mock Interviews  
+7 10/02 Mock Interviews  
+8 10/09 Careers: Finding a Good Fit and Negotiating [Industry Panel]  
