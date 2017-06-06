@@ -3,12 +3,31 @@
 ## Lesson 1 
 ### Lesson Title: Technical writing (Resumes/Cover letters/ Email)
 ### Learning Objective
+Help students create professional resumes they can use to apply for computer science internships and full-time positions.
+
 ### Pre-Class Preperation
 #### Instructor
+1) Send an email to all students that they should bring 3-4 copies of their current resume to first class.
+2) Gather information about upcoming career fairs and companies attending for class announcements.
+
 #### Students
+Print and bring copies of their resumes to first class.
+
 ### In-Class Activities 
+1) Instructor presents a PDF presentation on professional resume and email writing. 
+2) Students to pair up with other students sitting to their right side and swap copies of their resumes.  
+3) Students take one minute to provide first feedback about resume information, style, and format. 
+4) Students to pair up with another students sitting to their left side and swap copies of their resumes. 
+5) Now students take time for thorough checks and provide in-depth feedback.
+
 ### Wrap Up
-### Resources
+1) Instructor collects resumes for feedback.
+2) Assign reading material for next class.
+
+### Resources  
+
+[1] https://github.com/BoiseState/CS-HU390/blob/master/workshops/resume-workshop.pdf  
+
 ---
 
 
