@@ -7,12 +7,12 @@ Help students create professional resumes they can use to apply for computer sci
 
 ### Pre-Class Preperation
 #### Instructor
-1) Send an email to all students that they should bring 3-4 copies of their current resume to first class.
-2) Gather information about upcoming career fairs and companies attending for class announcements.
-3) Prepare KSA worksheet encouraging students to reflect on how their work, classroom, and life experiences have provided the student with the skills identified in the KSA Category Description document [2]
+* Send an email to all students that they should bring 3-4 copies of their current resume to first class.
+* Gather information about upcoming career fairs and companies attending for class announcements.
+* Prepare KSA worksheet encouraging students to reflect on how their work, classroom, and life experiences have provided the student with the skills identified in the KSA Category Description document [2]
 
 #### Students
-Print and bring copies of their resumes to first class.
+* Print and bring copies of their resumes to first class.
 
 ### In-Class Activities 
 1) Instructor presents a PDF presentation on professional resume and email writing. 
@@ -23,14 +23,16 @@ Print and bring copies of their resumes to first class.
 
 ### Wrap Up
 1) Hand-out KSA worksheet 
-2) Instructor collects resumes for feedback.
-3) Assign reading material for next class.  
+2) Watch TED talk "Your body language may shape who you are | Amy Cuddy" [3]
+3) Instructor collects resumes for feedback.
+4) Assign reading material for next class.  
 [Read pages 2-37 Cracking the Coding Interview 6th ed]  
 
 ### Resources  
 
 [1] https://github.com/BoiseState/CS-HU390/blob/master/workshops/resume-workshop.pdf  
 [2] https://github.com/BoiseState/CS-HU390/blob/master/workshops/KSA%20Category%20Descriptions.pdf  
+[3] https://www.youtube.com/watch?v=Ks-_Mh1QhMc  
 
 ---
 
@@ -42,8 +44,17 @@ Set expectations about technical and behavioral interviews.
 
 ### Pre-Class Preperation
 #### Instructor
+* Prepare PDF presentation on technical interviews.
+* Prepare talking points from TED talk "Your body language may shape who you are | Amy Cuddy" 
+* Email industry volunteers about possibly coming to class and giving a 20 minute talk about how their company conducts interviews 
+
 #### Students
+* Watch TED talk "Your body language may shape who you are | Amy Cuddy"
+* Complete reading assignment given during last class   
+
 ### In-Class Activities 
+1) Instructor presents a PDF presentation on on technical interviews.  
+
 ### Wrap Up
 * Assign reading material for next class:  
 [Read pages 60-81 Cracking the Coding Interview 6th ed] 
@@ -58,6 +69,8 @@ Set expectations about technical and behavioral interviews.
 ### Pre-Class Preperation
 #### Instructor
 #### Students
+* Complete reading assignment given during last class   
+
 ### In-Class Activities 
 ### Wrap Up
 * Assign reading material for next class:  
@@ -73,6 +86,8 @@ Set expectations about technical and behavioral interviews.
 ### Pre-Class Preperation
 #### Instructor
 #### Students
+* Complete reading assignment given during last class   
+
 ### In-Class Activities 
 ### Wrap Up
 * Assign reading material for next class:  
@@ -101,6 +116,8 @@ Set expectations about technical and behavioral interviews.
 ### Pre-Class Preperation
 #### Instructor
 #### Students
+* Complete reading assignment given during last class   
+
 ### In-Class Activities 
 ### Wrap Up
 * Assign reading material for next class:  
@@ -115,6 +132,8 @@ Set expectations about technical and behavioral interviews.
 ### Pre-Class Preperation
 #### Instructor
 #### Students
+* Complete reading assignment given during last class   
+
 ### In-Class Activities 
 ### Wrap Up
 * Assign reading material for next class:  
@@ -129,6 +148,8 @@ Set expectations about technical and behavioral interviews.
 ### Pre-Class Preperation
 #### Instructor
 #### Students
+* Complete reading assignment given during last class   
+
 ### In-Class Activities 
 ### Wrap Up
 ### Resources 
