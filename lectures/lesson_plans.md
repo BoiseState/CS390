@@ -1,4 +1,5 @@
 # CS-HU390 Lesson Plans
+---
 
 ## Lesson 1 
 ### Lesson Title: Technical writing (Resumes/Cover letters/ Email)
@@ -88,9 +89,9 @@ Review relevant Data Structures concepts and enable students to gain whiteboardi
 [Read pages 38-59 Cracking the Coding Interview 6th ed] 
 
 ### Resources 
-[1] https://www.hackerrank.com/
+[1] https://www.hackerrank.com/  
+  
 ---
-
 
 ## Lesson 4 
 ### Lesson Title: Problem Solving: Algorithms and Big-O
@@ -99,6 +100,8 @@ Review relevant Algorithms and Big-O concepts and enable students to gain whiteb
 
 ### Pre-Class Preperation
 #### Instructor
+* Select coding problems to go over during class 
+
 #### Students
 * Complete reading assignment given during last class   
 
@@ -117,13 +120,13 @@ Review relevant Algorithms and Big-O concepts and enable students to gain whiteb
 
 ## Lesson 5 
 ### Lesson Title: Problem Solving: Recursion and Memoization
-Review relevant Recursion and Memoization concepts and enable students to gain whiteboarding experience with coding interview questions.
-
 ### Learning Objective
-Practice makes perfect. Create a realistic setup for students to be given a coding challenge with a marker and dry erase board. The more comfortable students become coding on the whiteboard, map out strategy, and communicate thoughts the hesitant they'll be at the interview.
+Review relevant Recursion and Memoization concepts and enable students to gain whiteboarding experience with coding interview questions.
 
 ### Pre-Class Preperation
 #### Instructor
+* Select coding problems to go over during class 
+
 #### Students
 ### In-Class Activities 
 1) Review Recursion and Memoization
@@ -144,10 +147,15 @@ Practice makes perfect. Create a realistic setup for students to be given a codi
 
 ### Pre-Class Preperation
 #### Instructor
+* Email industry volunteers about participating in class mock interviews  
+* Select coding problems to go over during class 
+
 #### Students
 * Complete reading assignment given during last class   
 
 ### In-Class Activities 
+1) Every student will have to do one session of mock interview with an industry volunteer.
+
 ### Wrap Up
 * Assign coding problems from www.hackerrank.com  
 * Assign reading material for next class:  
@@ -159,12 +167,19 @@ Practice makes perfect. Create a realistic setup for students to be given a codi
 ## Lesson 7 
 ### Lesson Title: Mock Interviews
 ### Learning Objective
+Practice makes perfect. Create a realistic setup for students to be given a coding challenge with a marker and dry erase board. The more comfortable students become coding on the whiteboard, map out strategy, and communicate thoughts the hesitant they'll be at the interview.
+
 ### Pre-Class Preperation
 #### Instructor
+* Email industry volunteers about participating in class mock interviews  
+* Select coding problems to go over during class 
+
 #### Students
 * Complete reading assignment given during last class   
 
 ### In-Class Activities 
+1) Every student will have to do one session of mock interview with an industry volunteer.  
+
 ### Wrap Up
 * Assign coding problems from www.hackerrank.com  
 * Assign reading material for next class:  
