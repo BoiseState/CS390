@@ -120,6 +120,8 @@ Review relevant Algorithms and Big-O concepts and enable students to gain whiteb
 Review relevant Recursion and Memoization concepts and enable students to gain whiteboarding experience with coding interview questions.
 
 ### Learning Objective
+Practice makes perfect. Create a realistic setup for students to be given a coding challenge with a marker and dry erase board. The more comfortable students become coding on the whiteboard, map out strategy, and communicate thoughts the hesitant they'll be at the interview.
+
 ### Pre-Class Preperation
 #### Instructor
 #### Students
@@ -138,6 +140,8 @@ Review relevant Recursion and Memoization concepts and enable students to gain w
 ## Lesson 6 
 ### Lesson Title: Mock Interviews
 ### Learning Objective
+Practice makes perfect. Create a realistic setup for students to be given a coding challenge with a marker and dry erase board. The more comfortable students become coding on the whiteboard, map out strategy, and communicate thoughts the hesitant they'll be at the interview.
+
 ### Pre-Class Preperation
 #### Instructor
 #### Students
