@@ -22,7 +22,8 @@ Print and bring copies of their resumes to first class.
 
 ### Wrap Up
 1) Instructor collects resumes for feedback.
-2) Assign reading material for next class.
+2) Assign reading material for next class.  
+[Read pages 2-27 Cracking the Coding Interview 6th ed]  
 
 ### Resources  
 
