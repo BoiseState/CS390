@@ -68,44 +68,67 @@ Set expectations about technical and behavioral interviews.
 ## Lesson 3 
 ### Lesson Title: Problem Solving: Data Structures
 ### Learning Objective
+Review relevant Data Structures concepts and enable students to gain whiteboarding experience with coding interview questions.
+
 ### Pre-Class Preperation
 #### Instructor
+* Select coding problems to go over during class 
+
 #### Students
 * Complete reading assignment given during last class   
 
 ### In-Class Activities 
+1) Review Data Structures
+2) Ask for a volunteer for whiteboarding a coding challenge  
+3) Introduce www.hackerrank.com
+
 ### Wrap Up
+* Assign coding problems from www.hackerrank.com  
 * Assign reading material for next class:  
 [Read pages 38-59 Cracking the Coding Interview 6th ed] 
 
 ### Resources 
+[1] https://www.hackerrank.com/
 ---
 
 
 ## Lesson 4 
 ### Lesson Title: Problem Solving: Algorithms and Big-O
 ### Learning Objective
+Review relevant Algorithms and Big-O concepts and enable students to gain whiteboarding experience with coding interview questions.
+
 ### Pre-Class Preperation
 #### Instructor
 #### Students
 * Complete reading assignment given during last class   
 
 ### In-Class Activities 
+1) Review Algorithms and Big-O
+2) Ask for a volunteer for whiteboarding a coding challenge  
+
 ### Wrap Up
+* Assign coding problems from www.hackerrank.com  
 * Assign reading material for next class:  
 [Read chapter 8 Cracking the Coding Interview 6th ed] 
+
 
 ### Resources 
 ---
 
 ## Lesson 5 
 ### Lesson Title: Problem Solving: Recursion and Memoization
+Review relevant Recursion and Memoization concepts and enable students to gain whiteboarding experience with coding interview questions.
+
 ### Learning Objective
 ### Pre-Class Preperation
 #### Instructor
 #### Students
 ### In-Class Activities 
+1) Review Recursion and Memoization
+2) Ask for a volunteer for whiteboarding a coding challenge  
+
 ### Wrap Up
+* Assign coding problems from www.hackerrank.com  
 * Assign reading material for next class:  
 [Read chapters 1,2,3 Cracking the Coding Interview 6th ed] 
 
@@ -122,6 +145,7 @@ Set expectations about technical and behavioral interviews.
 
 ### In-Class Activities 
 ### Wrap Up
+* Assign coding problems from www.hackerrank.com  
 * Assign reading material for next class:  
 [Read chapters 10 and 11 Cracking the Coding Interview 6th ed] 
 
@@ -138,6 +162,7 @@ Set expectations about technical and behavioral interviews.
 
 ### In-Class Activities 
 ### Wrap Up
+* Assign coding problems from www.hackerrank.com  
 * Assign reading material for next class:  
 [Read pages 82-86 Cracking the Coding Interview 6th ed] 
 
@@ -147,12 +172,23 @@ Set expectations about technical and behavioral interviews.
 ## Lesson 8 
 ### Lesson Title: Careers Discussion: Finding a Good Fit and Negotiating [Industry Panel]
 ### Learning Objective
+Provide valuable learning opportunity from experienced industry members. 
+
 ### Pre-Class Preperation
 #### Instructor
+* Prepare panel questions for industry volunteers 
+* Email industry volunteers about participating in the industry panel
+
 #### Students
 * Complete reading assignment given during last class   
+* Prepare questions for industry volunteers
 
 ### In-Class Activities 
+1) Moderate industry panel of 3-5 expereinced volunteers with Q/A
+2) Closing remarks 
+
 ### Wrap Up
+1) Reinforcement the important concepts covered in this class
+
 ### Resources 
 ---
