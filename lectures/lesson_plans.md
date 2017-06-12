@@ -23,7 +23,7 @@ Print and bring copies of their resumes to first class.
 ### Wrap Up
 1) Instructor collects resumes for feedback.
 2) Assign reading material for next class.  
-[Read pages 2-27 Cracking the Coding Interview 6th ed]  
+[Read pages 2-37 Cracking the Coding Interview 6th ed]  
 
 ### Resources  
 
@@ -40,6 +40,9 @@ Print and bring copies of their resumes to first class.
 #### Students
 ### In-Class Activities 
 ### Wrap Up
+* Assign reading material for next class:  
+[Read pages 60-81 Cracking the Coding Interview 6th ed] 
+
 ### Resources 
 ---
 
@@ -52,6 +55,9 @@ Print and bring copies of their resumes to first class.
 #### Students
 ### In-Class Activities 
 ### Wrap Up
+* Assign reading material for next class:  
+[Read pages 38-59 Cracking the Coding Interview 6th ed] 
+
 ### Resources 
 ---
 
@@ -64,6 +70,9 @@ Print and bring copies of their resumes to first class.
 #### Students
 ### In-Class Activities 
 ### Wrap Up
+* Assign reading material for next class:  
+[Read chapter 8 Cracking the Coding Interview 6th ed] 
+
 ### Resources 
 ---
 
@@ -75,6 +84,9 @@ Print and bring copies of their resumes to first class.
 #### Students
 ### In-Class Activities 
 ### Wrap Up
+* Assign reading material for next class:  
+[Read chapters 1,2,3 Cracking the Coding Interview 6th ed] 
+
 ### Resources 
 ---
 
@@ -86,6 +98,9 @@ Print and bring copies of their resumes to first class.
 #### Students
 ### In-Class Activities 
 ### Wrap Up
+* Assign reading material for next class:  
+[Read chapters 10 and 11 Cracking the Coding Interview 6th ed] 
+
 ### Resources 
 ---
 
@@ -97,6 +112,9 @@ Print and bring copies of their resumes to first class.
 #### Students
 ### In-Class Activities 
 ### Wrap Up
+* Assign reading material for next class:  
+[Read pages 82-86 Cracking the Coding Interview 6th ed] 
+
 ### Resources 
 ---
 
