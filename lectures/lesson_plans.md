@@ -7,12 +7,12 @@ Help students create professional resumes they can use to apply for computer sci
 
 ### Pre-Class Preperation
 #### Instructor
-* Send an email to all students that they should bring 3-4 copies of their current resume to first class.
-* Gather information about upcoming career fairs and companies attending for class announcements.
+* Send an email to all students that they should bring 3-4 copies of their current resume to first class
+* Gather information about upcoming career fairs and companies attending for class announcements
 * Prepare KSA worksheet encouraging students to reflect on how their work, classroom, and life experiences have provided the student with the skills identified in the KSA Category Description document [2]
 
 #### Students
-* Print and bring copies of their resumes to first class.
+* Print and bring copies of their resumes to first class
 
 ### In-Class Activities 
 1) Instructor presents a PDF presentation on professional resume and email writing. 
@@ -54,6 +54,8 @@ Set expectations about technical and behavioral interviews.
 
 ### In-Class Activities 
 1) Instructor presents a PDF presentation on on technical interviews.  
+2) Discuss TED talk about body language by Amy Cuddy.
+3) Have the guest speaker give a talk about technical interviews.
 
 ### Wrap Up
 * Assign reading material for next class:  
