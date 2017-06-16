@@ -14,3 +14,6 @@ http://www.soarcareers.com/uploads/File/SOAR_Interview_Prep.pdf
 
 ## How to spot a lying job candidate
 http://www.bbc.com/capital/story/20170411-how-to-catch-the-lying-job-applicants-and-what-to-do-next
+
+## Why You Should Manage Your Energy Not Your Time
+http://www.bbc.com/capital/story/20170612-why-you-should-manage-your-energy-not-your-time  
