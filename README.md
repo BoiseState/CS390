@@ -18,6 +18,6 @@ CS-HU 390: Technical Interviews, Jobs and Careers
 * Produce future fair interviewers   
 * Start long-term career path discussion 
 
-###Industry volunteers
+### Industry volunteers
 * Ben Neely bmneely@gmail.com (Kount)
 
