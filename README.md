@@ -20,4 +20,6 @@ CS-HU 390: Technical Interviews, Jobs and Careers
 
 ### Industry volunteers
 * Ben Neely bmneely@gmail.com (Kount)
+* Jen Kniss jen@forsta.io (Forsta.io)
+* Mike Shelton (iVinciHealth)
 
