@@ -17,3 +17,9 @@ http://www.bbc.com/capital/story/20170411-how-to-catch-the-lying-job-applicants-
 
 ## Why You Should Manage Your Energy Not Your Time
 http://www.bbc.com/capital/story/20170612-why-you-should-manage-your-energy-not-your-time  
+
+## Tips For Tackling 6 Big Challenges Of Remote Work  
+https://blog.trello.com/tips-for-tackling-remote-work-challenges  
+
+## 14 Life Tips Every Recent Grad Needs to Have in Their Back Pocket
+http://www.rd.com/advice/work-career/life-skills-recent-college-grad/  
