@@ -23,3 +23,6 @@ https://blog.trello.com/tips-for-tackling-remote-work-challenges
 
 ## 14 Life Tips Every Recent Grad Needs to Have in Their Back Pocket
 http://www.rd.com/advice/work-career/life-skills-recent-college-grad/  
+
+## 15 Crucial Steps to Landing a Job In the Investment Banking Industry  
+https://www.financewalk.com/investment-banking-jobs-careers-guide/  
