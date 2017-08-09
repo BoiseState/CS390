@@ -22,4 +22,5 @@ CS-HU 390: Technical Interviews, Jobs and Careers
 * Ben Neely bmneely@gmail.com (Kount)
 * Jen Kniss jen@forsta.io (Forsta.io)
 * Mike Shelton (iVinciHealth)
+* Jan-Michael Jordan (Micron)
 

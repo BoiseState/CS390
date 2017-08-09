@@ -5,11 +5,11 @@
 
 ### Contact Information 
 
-Instructors: Dr.AmitJain&NilabMohammadMousa  
+Instructors: Dr.Amit Jain, Nilab M. Mousa  
 Office: CCP355   
 Phone: (208)426-3821   
-Classhomepage: http://cs.boisestate.edu/~cshu390/   
-Emails: ajain@boisestate.edu & nilabmohammadmousa@bosiestate.edu   
+Website: http://cs.boisestate.edu/~cshu390/   
+Emails: ajain@boisestate.edu  nilabmohammadmousa@bosiestate.edu   
 
 ### Class Time and Location
 |     Session Dates     | TIme                  | Room    | Office Hours |
@@ -26,7 +26,7 @@ is a short course to develop specific professional skills for computer science.
 
 
 ### Text 
-Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition by
+*Cracking the Coding Interview: 189 Programming Questions and Solutions, 6th Edition* by
 Gayle Laakmann McDowell.
 
 
@@ -36,7 +36,10 @@ result in a grade penalty.
 
 
 ### Grading Policy 
-This class is graded as pass/fail courses in which you’ll received a final grade of P or F. Note that a grade of F will impact your GPA. Passing grade is satisfactory work equivalent C- or higher ( https://registrar.boisestate.edu/grades/ ). Your grade will be computed based on the following:
+This class is graded as a pass/fail course in which you’ll received a final grade of P or
+F. Note that a grade of F will impact your GPA. Passing grade is satisfactory work, equivalent
+to C- or higher (https://registrar.boisestate.edu/grades/). Your grade will be computed based
+on the following:
 * Attendance - 50%
 * Class participation- 50%
 
@@ -62,8 +65,8 @@ This class is graded as pass/fail courses in which you’ll received a final gra
 |--------|-------|--------------------------------------------------------------|
 | 1      | 08/21 | Resume workshop                                              |
 | 2      | 08/28 | Technical Interviews, Behavioral Questions & Soft Skills     |
-| 3      | 09/04 | Data Structures                                              |
-| 4      | 09/11 | Algorithms, and Big-O                                        |
+| 3      | 09/04 | *Labor Day Holiday*                                            |
+| 4      | 09/11 | Data Structures, Algorithms, and Big-O                                        |
 | 5      | 09/25 | Recursion and Memoization                                    |
 | 6      | 09/18 | Mock Interviews                                              |
 | 7      | 10/02 | Mock Interviews                                              |
