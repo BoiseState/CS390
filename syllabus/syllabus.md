@@ -5,11 +5,11 @@
 
 ### Contact Information 
 
-Instructors: Dr.AmitJain&NilabMohammadMousa  
+Instructors: Dr.Amit Jain, Nilab M. Mousa  
 Office: CCP355   
 Phone: (208)426-3821   
 Classhomepage: http://cs.boisestate.edu/~cshu390/   
-Emails: ajain@boisestate.edu & nilabmohammadmousa@bosiestate.edu   
+Emails: ajain@boisestate.edu  nilabmohammadmousa@bosiestate.edu   
 
 ### Class Time and Location
 |     Session Dates     | TIme                  | Room    | Office Hours |
