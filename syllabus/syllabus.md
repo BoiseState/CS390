@@ -8,7 +8,7 @@
 Instructors: Dr.Amit Jain, Nilab M. Mousa  
 Office: CCP355   
 Phone: (208)426-3821   
-Classhomepage: http://cs.boisestate.edu/~cshu390/   
+Website: http://cs.boisestate.edu/~cshu390/   
 Emails: ajain@boisestate.edu  nilabmohammadmousa@bosiestate.edu   
 
 ### Class Time and Location
@@ -26,7 +26,7 @@ is a short course to develop specific professional skills for computer science.
 
 
 ### Text 
-Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition by
+*Cracking the Coding Interview: 189 Programming Questions and Solutions, 6th Edition* by
 Gayle Laakmann McDowell.
 
 
@@ -36,7 +36,10 @@ result in a grade penalty.
 
 
 ### Grading Policy 
-This class is graded as pass/fail courses in which you’ll received a final grade of P or F. Note that a grade of F will impact your GPA. Passing grade is satisfactory work equivalent C- or higher ( https://registrar.boisestate.edu/grades/ ). Your grade will be computed based on the following:
+This class is graded as a pass/fail course in which you’ll received a final grade of P or
+F. Note that a grade of F will impact your GPA. Passing grade is satisfactory work, equivalent
+to C- or higher (https://registrar.boisestate.edu/grades/). Your grade will be computed based
+on the following:
 * Attendance - 50%
 * Class participation- 50%
 
