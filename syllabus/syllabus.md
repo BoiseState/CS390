@@ -80,7 +80,7 @@ dishonesty, see: http://cs.boisestate.edu/~buff/files/www-integrity.pdf
 
 ### University Attendance Policy
 Students are expected to attend classes regularly. Missing one of two first classes
-may result in your automatic withdraw from the class. (See
+may result in your automatic withdrawal from the class. (See
 http://policy.boisestate.edu/academic-affairs-faculty-administration/policy-title-facult
 y-initiated-withdrawal/ )
 
