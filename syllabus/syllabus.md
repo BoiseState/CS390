@@ -8,7 +8,7 @@
 Instructors: Nilab M. Mousa, Dr. Amit Jain  
 Office: CCP 355   
 Phone: (208)426-3821   
-Website: http://github.com/BoiseState/CS-HU390
+Website: http://github.com/BoiseState/CS-HU390  
 Emails: ajain@boisestate.edu  nilabmohammadmousa@bosiestate.edu   
 
 ### Class Time and Location
