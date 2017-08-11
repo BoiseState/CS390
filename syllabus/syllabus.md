@@ -5,16 +5,16 @@
 
 ### Contact Information 
 
-Instructors: Dr.Amit Jain, Nilab M. Mousa  
-Office: CCP355   
+Instructors: Nilab M. Mousa, Dr. Amit Jain  
+Office: CCP 355   
 Phone: (208)426-3821   
 Website: http://cs.boisestate.edu/~cshu390/   
 Emails: ajain@boisestate.edu  nilabmohammadmousa@bosiestate.edu   
 
 ### Class Time and Location
-|     Session Dates     | TIme                  | Room    | Office Hours |
-|:---------------------:|-----------------------|---------|--------------|
-| 8/21/2017 -10/13/2017 | Monday4:30PM - 6:30PM | CCP 221 | TBD          |
+|     Session Dates     | TIme                   | Room    | Office Hours |
+|:---------------------:|------------------------|---------|--------------|
+|8/21/2017 - 10/13/2017 | Monday 4:30PM - 6:20PM | CCP 221 | TBD          |
 
 ### Catalog Description 
 CS-HU 390 TECHNICAL INTERVIEWS, JOBS, AND CAREERS (1-0-1)(F). Prepare students
@@ -44,17 +44,17 @@ on the following:
 * Class participation- 50%
 
 ### Grading scale
-* 90% ≤ A- < 94% ≤ A < 97% ≤ A+
-* 80% ≤ B- < 84% ≤ B < 87% ≤ B+
-* 70% ≤ C- < 74% ≤ C < 77% ≤ C+
-* 60% ≤ D- < 64% ≤ D < 67% ≤ D+
+* 90% <= A- < 94% <= A < 97% <= A+
+* 80% <= B- < 84% <= B < 87% <= B+
+* 70% <= C- < 74% <= C < 77% <= C+
+* 60% <= D- < 64% <= D < 67% <= D+
 * F < 60%
 
 ### Course Topic Outline
 **Week 1:** Technical writing (Resumes/Cover letters/ Email)  
 **Week 2:** Technical and Behavioral Interviews  
-**Week 3:** Review of Data Structures  
-**Week 4:** Review of Algorithms  
+**Week 3:** Labor Day Holiday
+**Week 4:** Review of Data Structures and Algorithms  
 **Week 5:** Review of Algorithms  
 **Week 6:** Mock Interviews  
 **Week 7:** Mock Interviews  
