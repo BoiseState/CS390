@@ -6,7 +6,7 @@
 ### Learning Objective
 Help students create professional resumes they can use to apply for computer science internships and full-time positions.
 
-### Pre-Class Preperation
+### Pre-Class Preparation
 #### Instructor
 * Send an email to all students that they should bring 3-4 copies of their current resume to first class
 * Gather information about upcoming career fairs and companies attending for class announcements
@@ -16,9 +16,9 @@ Help students create professional resumes they can use to apply for computer sci
 * Print and bring copies of their resumes to first class
 
 ### In-Class Activities 
-1) Instructor presents a PDF presentation on professional resume and email writing. 
+1) Instructor presents a presentation on professional resume and email writing. 
 2) Students to pair up with other students sitting to their right side and swap copies of their resumes.  
-3) Students take one minute to provide first feedback about resume information, style, and format. 
+3) Students take two minutes to provide first feedback about resume information, style, and format. 
 4) Students to pair up with another students sitting to their left side and swap copies of their resumes. 
 5) Now students take time for thorough checks and provide in-depth feedback.
 
@@ -43,9 +43,9 @@ Help students create professional resumes they can use to apply for computer sci
 ### Learning Objective
 Set expectations about technical and behavioral interviews.
 
-### Pre-Class Preperation
+### Pre-Class Preparation
 #### Instructor
-* Prepare PDF presentation on technical interviews.
+* Prepare presentation on technical interviews.
 * Prepare talking points from TED talk "Your body language may shape who you are | Amy Cuddy" 
 * Email industry volunteers about possibly coming to class and giving a 20 minute talk about how their company conducts interviews 
 
@@ -71,7 +71,7 @@ Set expectations about technical and behavioral interviews.
 ### Learning Objective
 Review relevant Data Structures concepts and enable students to gain whiteboarding experience with coding interview questions.
 
-### Pre-Class Preperation
+### Pre-Class Preparation
 #### Instructor
 * Select coding problems to go over during class 
 
@@ -98,7 +98,7 @@ Review relevant Data Structures concepts and enable students to gain whiteboardi
 ### Learning Objective
 Review relevant Algorithms and Big-O concepts and enable students to gain whiteboarding experience with coding interview questions.
 
-### Pre-Class Preperation
+### Pre-Class Preparation
 #### Instructor
 * Select coding problems to go over during class 
 
@@ -123,7 +123,7 @@ Review relevant Algorithms and Big-O concepts and enable students to gain whiteb
 ### Learning Objective
 Review relevant Recursion and Memoization concepts and enable students to gain whiteboarding experience with coding interview questions.
 
-### Pre-Class Preperation
+### Pre-Class Preparation
 #### Instructor
 * Select coding problems to go over during class 
 
@@ -145,7 +145,7 @@ Review relevant Recursion and Memoization concepts and enable students to gain w
 ### Learning Objective
 Practice makes perfect. Create a realistic setup for students to be given a coding challenge with a marker and dry erase board. The more comfortable students become coding on the whiteboard, map out strategy, and communicate thoughts the hesitant they'll be at the interview.
 
-### Pre-Class Preperation
+### Pre-Class Preparation
 #### Instructor
 * Email industry volunteers about participating in class mock interviews  
 * Select coding problems to go over during class 
@@ -169,7 +169,7 @@ Practice makes perfect. Create a realistic setup for students to be given a codi
 ### Learning Objective
 Practice makes perfect. Create a realistic setup for students to be given a coding challenge with a marker and dry erase board. The more comfortable students become coding on the whiteboard, map out strategy, and communicate thoughts the hesitant they'll be at the interview.
 
-### Pre-Class Preperation
+### Pre-Class Preparation
 #### Instructor
 * Email industry volunteers about participating in class mock interviews  
 * Select coding problems to go over during class 
@@ -193,7 +193,7 @@ Practice makes perfect. Create a realistic setup for students to be given a codi
 ### Learning Objective
 Provide valuable learning opportunity from experienced industry members. 
 
-### Pre-Class Preperation
+### Pre-Class Preparation
 #### Instructor
 * Prepare panel questions for industry volunteers 
 * Email industry volunteers about participating in the industry panel
