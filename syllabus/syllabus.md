@@ -8,7 +8,7 @@
 Instructors: Nilab M. Mousa, Dr. Amit Jain  
 Office: CCP 355   
 Phone: (208)426-3821   
-Website: http://cs.boisestate.edu/~cshu390/   
+Website: http://github.com/BoiseState/CS-HU390
 Emails: ajain@boisestate.edu  nilabmohammadmousa@bosiestate.edu   
 
 ### Class Time and Location
@@ -24,10 +24,42 @@ Learn how to negotiate jobs and manage career growth. A Hatchery Unit (HU) cours
 is a short course to develop specific professional skills for computer science.
 (Pass/Fail) PREREQ: CS 230, CS 253, CS 321.
 
+### Goals
+
+By taking this course, the student will be able to:
+* understand the technical interview process in industry, 
+* practice teamwork and peer feedback,  
+* negotiate job offers and understand the importance of managing career growth,  
+* and demonstrate how knowledge gained in classes can be used to solve new problems 
+
 
 ### Text 
 *Cracking the Coding Interview: 189 Programming Questions and Solutions, 6th Edition* by
 Gayle Laakmann McDowell.
+
+
+### Course Topic Outline
+**Week 1:** Technical writing (Resumes/Cover letters/ Email)  
+**Week 2:** Technical and Behavioral Interviews  
+**Week 3:** *Labor Day Holiday*
+**Week 4:** Review of Data Structures and Algorithms  
+**Week 5:** Review of Algorithms  
+**Week 6:** Mock Interviews  
+**Week 7:** Mock Interviews  
+**Week 8:** Careers Discussion  
+
+### Schedule (Tentative)
+| Week # | Date  | Topic                                                        |
+|--------|-------|--------------------------------------------------------------|
+| 1      | 08/21 | Resume workshop                                              |
+| 2      | 08/28 | Technical Interviews, Behavioral Questions & Soft Skills     |
+| 3      | 09/04 | *Labor Day Holiday*                                          |
+| 4      | 09/11 | Data Structures, Algorithms, and Big-O                       |
+| 5      | 09/25 | Recursion and Memoization                                    |
+| 6      | 09/18 | Mock Interviews                                              |
+| 7      | 10/02 | Mock Interviews                                              |
+| 8      | 10/09 | Careers: Finding a Good Fit and Negotiating [Industry Panel] |
+
 
 
 ### Attendance 
@@ -40,8 +72,9 @@ This class is graded as a pass/fail course in which you’ll received a final gr
 F. Note that a grade of F will impact your GPA. Passing grade is satisfactory work, equivalent
 to C- or higher (https://registrar.boisestate.edu/grades/). Your grade will be computed based
 on the following:
-* Attendance - 50%
-* Class participation- 50%
+
+* Attendance - 50% 
+* Class participation- 50% 
 
 ### Grading scale
 * 90% <= A- < 94% <= A < 97% <= A+
@@ -50,27 +83,6 @@ on the following:
 * 60% <= D- < 64% <= D < 67% <= D+
 * F < 60%
 
-### Course Topic Outline
-**Week 1:** Technical writing (Resumes/Cover letters/ Email)  
-**Week 2:** Technical and Behavioral Interviews  
-**Week 3:** Labor Day Holiday
-**Week 4:** Review of Data Structures and Algorithms  
-**Week 5:** Review of Algorithms  
-**Week 6:** Mock Interviews  
-**Week 7:** Mock Interviews  
-**Week 8:** Careers Discussion  
-
-### Schedule (Tentative)
-| Week # | Date  | Topic                                                        |
-|--------|-------|--------------------------------------------------------------|
-| 1      | 08/21 | Resume workshop                                              |
-| 2      | 08/28 | Technical Interviews, Behavioral Questions & Soft Skills     |
-| 3      | 09/04 | *Labor Day Holiday*                                            |
-| 4      | 09/11 | Data Structures, Algorithms, and Big-O                                        |
-| 5      | 09/25 | Recursion and Memoization                                    |
-| 6      | 09/18 | Mock Interviews                                              |
-| 7      | 10/02 | Mock Interviews                                              |
-| 8      | 10/09 | Careers: Finding a Good Fit and Negotiating [Industry Panel] |
 
 ### Academic Honesty
 The University's goal is to foster an intellectual atmosphere that produces educated,
