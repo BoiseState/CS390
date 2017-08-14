@@ -26,3 +26,7 @@ http://www.rd.com/advice/work-career/life-skills-recent-college-grad/
 
 ## 15 Crucial Steps to Landing a Job In the Investment Banking Industry  
 https://www.financewalk.com/investment-banking-jobs-careers-guide/  
+
+## 5 simple negotiation strategies that will help you get paid what you're worth  
+https://www.cnbc.com/2017/08/10/negotiation-strategies-that-will-boost-your-pay.html
+
