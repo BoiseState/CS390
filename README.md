@@ -24,5 +24,6 @@ https://github.com/BoiseState/CS-HU390/blob/master/syllabus/syllabus.md
 * Jen Kniss jen@forsta.io (Forsta.io)
 * Mike Shelton (iVinciHealth)
 * Jan-Michael Jordan (Micron)
+* Jerek Andersen (Clearwater Analytics)
 
 
