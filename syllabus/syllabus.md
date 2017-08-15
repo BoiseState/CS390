@@ -5,11 +5,11 @@
 
 ### Contact Information 
 
-Instructors: Nilab M. Mousa, Dr. Amit Jain  
-Office: CCP 355 (Amit)   
-Phone: (208)426-3821 (Amit)   
-Website: http://github.com/BoiseState/CS-HU390  
-Emails: nilabmohammadmousa@bosiestate.edu   ajain@boisestate.edu
+**Instructors**: Nilab M. Mousa, Dr. Amit Jain  
+**Office**: CCP 355 (Amit)   
+**Phone**: (208)426-3821 (Amit)   
+**Websit**e: http://github.com/BoiseState/CS-HU390  
+**Emails**: nilabmohammadmousa@bosiestate.edu   ajain@boisestate.edu
 
 ### Class Time and Location
 |     Session Dates     | TIme                   | Room    | Office Hours |
@@ -27,7 +27,8 @@ is a short course to develop specific professional skills for computer science.
 ### Goals
 
 By taking this course, the student will be able to:
-* understand the technical interview process in industry, 
+
+* understand the technical interview process in industry,  
 * practice teamwork and peer feedback,  
 * negotiate job offers and understand the importance of managing career growth,  
 * and demonstrate how knowledge gained in classes can be used to solve new problems 
