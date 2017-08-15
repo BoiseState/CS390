@@ -6,10 +6,10 @@
 ### Contact Information 
 
 Instructors: Nilab M. Mousa, Dr. Amit Jain  
-Office: CCP 355   
-Phone: (208)426-3821   
+Office: CCP 355 (Amit)   
+Phone: (208)426-3821 (Amit)   
 Website: http://github.com/BoiseState/CS-HU390  
-Emails: ajain@boisestate.edu  nilabmohammadmousa@bosiestate.edu   
+Emails: nilabmohammadmousa@bosiestate.edu   ajain@boisestate.edu
 
 ### Class Time and Location
 |     Session Dates     | TIme                   | Room    | Office Hours |
@@ -89,9 +89,11 @@ The University's goal is to foster an intellectual atmosphere that produces educ
 literate people. Because cheating and plagiarism are at odds with that goal, those
 actions shall not be tolerated in any form. If a student engages in academic
 dishonesty, the student may be dismissed from the class and may receive a failing
-grade. Other penalties may include suspension or expulsion from the University. For
-much more information about academic integrity, including examples of academic
-dishonesty, see: http://cs.boisestate.edu/~buff/files/www-integrity.pdf
+grade. Other penalties may include suspension or expulsion from the University.
+For more information, please visit the University's web page regarding academic integrity. 
+
+http://registrar.boisestate.edu/general-information-and-policies/academic-integrity/
+
 
 ### University Attendance Policy
 Students are expected to attend classes regularly. Missing one of two first classes
@@ -105,17 +107,9 @@ should contact the Disability Resource Center (DRC). All accommodations must be
 approved through the DRC prior to being implemented. To learn more about the
 accommodation process, visit the DRC’s website http://drc.boisestate.edu/
 
-### Procedures for Breach of Academic Misconduct
-* First offense: Student will receive a 0 on the assignment and an Academic
-Misconduct Report Form will be submitted to the Office of the Dean of Students.
-* Second offense: Student will receive an F in the course and an Academic
-Misconduct Report Form will be submitted to the Office of the Dean of Students.
-* Academic Misconduct Form:
-http://deanofstudents.boisestate.edu/wp-content/uploads/2014/10/Academic_Disho
-nesty_Report_Form.pdf.  
 
 ### Building Safety
-Knowing how to behave in an emergency situation is really important for students.
-Please revise CCP Building Safety Document at
+Knowing how to behave in an emergency situation is important for students.
+Please review CCP Building Safety Document at
 http://coen.boisestate.edu/cs/safetydocument/
 
