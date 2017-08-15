@@ -1,7 +1,6 @@
 ### CS-HU390: Technical Interviews, Jobs and Careers
 ### Fall 2017
 ### Boise State University
-### Prerequisites:CS230, CS253 and CS321
 
 
 ### Contact Information 
