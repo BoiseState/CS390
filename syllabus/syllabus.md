@@ -43,7 +43,7 @@ Gayle Laakmann McDowell.
 **Week 1:** Technical writing (Resumes/Cover letters/ Email)  
 **Week 2:** Technical and Behavioral Interviews  
 **Week 3:** *Labor Day Holiday*   
-**Week 4:** Review of Data Structures and Algorithms  
+**Week 4:** Review of Data Structures 
 **Week 5:** Review of Algorithms  
 **Week 6:** Mock Interviews  
 **Week 7:** Mock Interviews  
@@ -56,16 +56,11 @@ Gayle Laakmann McDowell.
 | 2      | 08/28 | Technical Interviews, Behavioral Questions & Soft Skills     |
 | 3      | 09/04 | *Labor Day Holiday*                                          |
 | 4      | 09/11 | Data Structures, Algorithms, and Big-O                       |
-| 5      | 09/25 | Recursion and Memoization                                    |
+| 5      | 09/25 | More Algorithms, Recursion and Memoization                                    |
 | 6      | 09/18 | Mock Interviews                                              |
 | 7      | 10/02 | Mock Interviews                                              |
 | 8      | 10/09 | Careers: Finding a Good Fit and Negotiating [Industry Panel] |
 
-
-
-### Attendance 
-Students are expected to attend all classes. Missing classes without explanation may
-result in a grade penalty.
 
 
 ### Grading Policy 
