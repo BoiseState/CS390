@@ -1,5 +1,12 @@
 # Links
 
+## Know what questions cannot be asked in a job interview. 
+<http://blogs.findlaw.com/law_and_life/2010/08/10-things-you-cant-be-asked-at-a-job-interview.html>
+<http://employment.findlaw.com/hiring-process/illegal-interview-questions-and-female-applicants.html>
+
+## Know how to respond if disallowed questions are asked. 
+<http://employment.findlaw.com/hiring-process/illegal-interview-questions-and-female-applicants.html> 
+
 ## Top tips for getting a raise 
 http://www.cbsnews.com/news/top-tips-for-getting-a-raise/
 

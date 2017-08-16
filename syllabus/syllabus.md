@@ -99,8 +99,7 @@ http://registrar.boisestate.edu/general-information-and-policies/academic-integr
 ### University Attendance Policy
 Students are expected to attend classes regularly. Missing one of two first classes
 may result in your automatic withdrawal from the class. (See
-http://policy.boisestate.edu/academic-affairs-faculty-administration/policy-title-facult
-y-initiated-withdrawal/ )
+http://policy.boisestate.edu/academic-affairs-faculty-administration/policy-title-faculty-initiated-withdrawal/)
 
 ### Disability Office
 Students with disabilities needing accommodations to fully participate in this class
