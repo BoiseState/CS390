@@ -43,7 +43,7 @@ Gayle Laakmann McDowell.
 **Week 1:** Technical writing (Resumes/Cover letters/ Email)  
 **Week 2:** Technical and Behavioral Interviews  
 **Week 3:** *Labor Day Holiday*   
-**Week 4:** Review of Data Structures 
+**Week 4:** Review of Data Structures  
 **Week 5:** Review of Algorithms  
 **Week 6:** Mock Interviews  
 **Week 7:** Mock Interviews  
