@@ -10,6 +10,7 @@ Help students create professional resumes they can use to apply for computer sci
 #### Instructor
 * Send an email to all students that they should bring 3-4 copies of their current resume to first class
 * Gather information about upcoming career fairs and companies attending for class announcements
+  (Fall 2017: Career Fair is 18th Oct)
 * Prepare KSA worksheet encouraging students to reflect on how their work, classroom, and life experiences have provided the student with the skills identified in the KSA Category Description document [2]
 
 #### Students

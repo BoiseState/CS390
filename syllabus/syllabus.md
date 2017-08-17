@@ -40,7 +40,7 @@ Gayle Laakmann McDowell.
 
 
 ### Course Topic Outline
-**Week 1:** Technical writing (Resumes/Cover letters/ Email)  
+**Week 1:** Technical writing (Resumes, Cover letters, Email)  
 **Week 2:** Technical and Behavioral Interviews  
 **Week 3:** *Labor Day Holiday*   
 **Week 4:** Review of Data Structures  
