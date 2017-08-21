@@ -33,7 +33,7 @@ Help students create professional resumes they can use to apply for computer sci
 ### Resources  
 
 [1] https://github.com/BoiseState/CS-HU390/blob/master/workshops/resume-workshop.pdf  
-[2] https://github.com/BoiseState/CS-HU390/blob/master/workshops/KSA%20Category%20Descriptions.pdf  
+[2] https://github.com/BoiseState/CS-HU390/blob/master/notes/KSA%20Category%20Descriptions.pdf
 [3] https://www.youtube.com/watch?v=Ks-_Mh1QhMc  
 
 ---
@@ -113,7 +113,7 @@ Review relevant Algorithms and Big-O concepts and enable students to gain whiteb
 ### Wrap Up
 * Assign coding problems from www.hackerrank.com  
 * Assign reading material for next class:  
-[Read chapter 8 Cracking the Coding Interview 6th ed] 
+[Read pages 82-86 Cracking the Coding Interview 6th ed] 
 
 
 ### Resources 
@@ -136,7 +136,7 @@ Review relevant Recursion and Memoization concepts and enable students to gain w
 ### Wrap Up
 * Assign coding problems from www.hackerrank.com  
 * Assign reading material for next class:  
-[Read chapters 1,2,3 Cracking the Coding Interview 6th ed] 
+[Re-read chapters 1,2,3 Cracking the Coding Interview 6th ed] 
 
 ### Resources 
 ---
@@ -184,7 +184,7 @@ Practice makes perfect. Create a realistic setup for students to be given a codi
 ### Wrap Up
 * Assign coding problems from www.hackerrank.com  
 * Assign reading material for next class:  
-[Read pages 82-86 Cracking the Coding Interview 6th ed] 
+[Re-read pages 82-86 Cracking the Coding Interview 6th ed] 
 
 ### Resources 
 ---
