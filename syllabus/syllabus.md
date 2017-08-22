@@ -70,7 +70,7 @@ to C- or higher (https://registrar.boisestate.edu/grades/). Your grade will be c
 on the following:
 
 * Attendance - 50% 
-* Class participation- 50% 
+* Class participation - 50% 
 
 ### Grading scale
 * 90% <= A- < 94% <= A < 97% <= A+
