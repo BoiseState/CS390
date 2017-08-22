@@ -56,8 +56,8 @@ Gayle Laakmann McDowell.
 | 2      | 08/28 | Technical Interviews, Behavioral Questions & Soft Skills     |
 | 3      | 09/04 | *Labor Day Holiday*                                          |
 | 4      | 09/11 | Data Structures, Algorithms, and Big-O                       |
-| 5      | 09/25 | More Algorithms, Recursion and Memoization                                    |
-| 6      | 09/18 | Mock Interviews                                              |
+| 5      | 09/18 | More Algorithms, Recursion and Memoization                                    |
+| 6      | 09/25 | Mock Interviews                                              |
 | 7      | 10/02 | Mock Interviews                                              |
 | 8      | 10/09 | Careers: Finding a Good Fit and Negotiating [Industry Panel] |
 
