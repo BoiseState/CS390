@@ -14,7 +14,7 @@
 ### Class Time and Location
 |     Session Dates     | TIme                   | Room    | Office Hours |
 |:---------------------:|------------------------|---------|--------------|
-|8/21/2017 - 10/13/2017 | Monday 4:30PM - 6:20PM | CCP 221 | TBD          |
+|8/21/2017 - 10/13/2017 | Monday 4:30PM - 6:30PM | CCP 221 | TBD          |
 
 ### Catalog Description 
 CS-HU 390 TECHNICAL INTERVIEWS, JOBS, AND CAREERS (1-0-1)(F). Prepare students
