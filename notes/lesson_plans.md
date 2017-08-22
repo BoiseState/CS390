@@ -32,7 +32,7 @@ Help students create professional resumes they can use to apply for computer sci
 
 ### Resources  
 
-[1] https://github.com/BoiseState/CS-HU390/blob/master/notes/cs-hu-390-lecture-08-21-2017.pdf
+[1] https://github.com/BoiseState/CS-HU390/blob/master/notes/cs-hu-390-lecture-08-21-2017.pdf  
 [2] https://github.com/BoiseState/CS-HU390/blob/master/notes/KSA%20Category%20Descriptions.pdf  
 [3] https://www.youtube.com/watch?v=Ks-_Mh1QhMc  
 
