@@ -60,6 +60,17 @@
 
 ----
 
+# How I work in real life
+* Understand the problem
+* Formulate a solution
+  * Rubber-ducking
+  * Explaining/Critiquing solutions
+* Implement then optimize
+* Looking up API details
+* Juxtapose this with the interview
+
+----
+
 # Part 1: Easier Questions
 * Can you write a simple program?
 * Do you understand recursion?
