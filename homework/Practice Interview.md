@@ -23,8 +23,10 @@ would return “Wo”
 public String randomString (int  n) { … }
 ```
 
-* Suppose we have a class called Box that has width, height, depth  as its attributes. The values are doubles. In addition it has a boolean attribute named full that represents whether it is empty or full. Here are some relevant methods that are available and defined appropriately in the class:
-
+* Suppose we have a class called Box that has width, height, depth  as its attributes. The
+values are doubles. In addition it has a boolean attribute named full that represents whether
+it is empty or full. Here are some relevant methods that are available and defined appropriately
+in the class
 ```java
     public Box(double width, double height, double depth)
     public void getFull()
@@ -32,7 +34,6 @@ public String randomString (int  n) { … }
     public double volume()
     public String toString()
 ```
-
   * Write a loop that creates 10 boxes with random width, height, depth (within the range 1 - 10) that are all empty. Keep track of the box with the largest volume and print out the details of the box at the end.
 
   * Modify the above code snippet so that it creates an array of box objects so that we can keep track of the boxes.
