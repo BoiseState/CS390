@@ -203,7 +203,121 @@ What happens when you've been contacted
 * Immutability
 * Note - Every interviewer is different!
 
+---
+
+##Sample: Anagram
+From the web: "A word, phrase, or name formed by rearranging the letters of another, such as _cinema_, formed from _iceman_."
+
 ----
+
+## AnagramFromHell.java
+````
+import java.util.Arrays;
+
+public class AnagramFromHell {    
+    public static boolean anagram(String a, String b){
+        byte[] aBytes = a.getBytes();
+        byte[] bBytes = b.getBytes();
+        
+        byte[] aRes = new byte[aBytes.length];
+        int aIndex = 0;
+        for(int i = 0; i < aBytes.length; i++){
+            byte x = aBytes[i];
+            if((x >= 97 && x <= 122) || (x >= 65 && x <= 90)){
+                aRes[aIndex] = (byte) (x - (x >= 97 ? 97 : 65));
+                aIndex++;
+            }
+        }
+        for(int i = aIndex; i < aRes.length; i++){
+            aRes[i] = 127;
+        }
+    
+        //I could have done my own quicksort here to make it extra awesome.
+        Arrays.sort(aRes);
+        
+        byte[] bRes = new byte[bBytes.length];
+        int bIndex = 0;
+        for(int i = 0; i < bBytes.length; i++){
+            byte x = bBytes[i];
+            if((x >= 97 && x <= 122) || (x >= 65 && x <= 90)){
+                bRes[bIndex] = (byte) (x - (x >= 97 ? 97 : 65));
+                bIndex++;
+            }
+        }
+        for(int i = bIndex; i < bRes.length; i++){
+            bRes[i] = 127;
+        }
+        
+        Arrays.sort(bRes);
+
+        if(aIndex != bIndex)
+            return false;
+        else {
+            for(int i = 0; i < aIndex; i++){
+                if(aRes[i] != bRes[i]) return false;
+            }
+        }
+        
+        return true;
+    }
+    
+    public static void main(String[] args){
+        //Do this to decode the byte values of our desired characters
+        System.out.println((byte)'a');
+        System.out.println((byte)'z');
+        System.out.println((byte)'A');
+        System.out.println((byte)'Z');
+
+        System.out.println(anagram("I am Lord Voldemort", "Tom Marvolo Riddle"));
+        System.out.println(anagram("desert", "dessert"));
+    }
+}
+````
+
+----
+
+## Anagram.java
+````
+import java.util.HashMap;
+import java.util.Map;
+
+public class Anagram {
+    public static Map<Character, Integer> encode(String s){
+        Map<Character, Integer> m = new HashMap<>();
+        char[] a = s.toUpperCase().replaceAll("\\W", "").toCharArray();
+        for(char c : a){
+          Integer i = m.getOrDefault(c, 0);
+          m.put(c, i+1);
+        }
+        return m;
+    }
+    
+    public static boolean anagram(String a, String b){
+        return encode(a).equals(encode(b));
+    }
+        
+    public static void main(String[] args){
+        System.out.println(anagram("I am Lord Voldemort", "Tom Marvolo Riddle"));
+        System.out.println(anagram("desert", "dessert"));
+    }
+}
+````
+
+----
+
+# Beautiful Code
+````
+(def encode 
+  (comp frequencies cs/lower-case #(cs/replace % #"\W" "")))
+
+(defn anagram [s0 s1]
+  (= (encode s0) (encode s1)))
+
+(anagram "dessert" "desert")
+(anagram "I am Lord Voldemort!" "Tom Marvolo Riddle")
+````
+
+---
 
 # Conclusion
 * Interviewing is the process of aligning candidates with jobs
