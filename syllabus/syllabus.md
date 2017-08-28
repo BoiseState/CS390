@@ -29,7 +29,7 @@ is a short course to develop specific professional skills for computer science.
 By taking this course, the student will be able to:
 
 * understand the technical interview process in industry,  
-* practice teamwork and peer feedback,  
+* provide constructive peer feedback,  
 * negotiate job offers and understand the importance of managing career growth,  
 * and demonstrate how knowledge gained in classes can be used to solve new problems 
 
@@ -66,19 +66,11 @@ Gayle Laakmann McDowell.
 ### Grading Policy 
 This class is graded as a pass/fail course in which you’ll received a final grade of P or
 F. Note that a grade of F will impact your GPA. Passing grade is satisfactory work, equivalent
-to C- or higher (https://registrar.boisestate.edu/grades/). Your grade will be computed based
+to 70% or higher. Your grade will be computed based
 on the following:
 
 * Attendance - 50% 
 * Class participation - 50% 
-
-### Grading scale
-* 90% <= A- < 94% <= A < 97% <= A+
-* 80% <= B- < 84% <= B < 87% <= B+
-* 70% <= C- < 74% <= C < 77% <= C+
-* 60% <= D- < 64% <= D < 67% <= D+
-* F < 60%
-
 
 ### Academic Honesty
 The University's goal is to foster an intellectual atmosphere that produces educated,
