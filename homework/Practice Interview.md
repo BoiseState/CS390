@@ -33,20 +33,20 @@ public String randomString (int  n) { … }
     public String toString()
 ```
 
-      * Write a loop that creates 10 boxes with random width, height, depth (within the range 1 - 10) that are all empty. Keep track of the box with the largest volume and print out the details of the box at the end.
+   * Write a loop that creates 10 boxes with random width, height, depth (within the range 1 - 10) that are all empty. Keep track of the box with the largest volume and print out the details of the box at the end.
 
-      * Modify the above code snippet so that it creates an array of box objects so that we can keep track of the boxes.
+   * Modify the above code snippet so that it creates an array of box objects so that we can keep track of the boxes.
 
-         * Discuss how to implement a doubly-linked list? That is, show declarations and selected method headers. Do the same for a binary tree.
+   * Discuss how to implement a doubly-linked list? That is, show declarations and selected method headers. Do the same for a binary tree.
 
-         * Design an algorithm that finds the index of the first 1 from a sorted array of 0’s and 1s. Just provide the idea without the code. What is the time complexity in big-Oh notation?
+   * Design an algorithm that finds the index of the first 1 from a sorted array of 0’s and 1s. Just provide the idea without the code. What is the time complexity in big-Oh notation?
 
-         * Given an unsorted set with n keys. Determine if there are two key values that sum up to exactly x. What is the complexity of your algorithm?
-            * Given a sorted set with n keys. Can you design a faster algorithm for the above problem?
+   * Given an unsorted set with n keys. Determine if there are two key values that sum up to exactly x. What is the complexity of your algorithm?
+   * Given a sorted set with n keys. Can you design a faster algorithm for the above problem?
 
-      * Ask if they know graph representations. 
-      * Hash tables instead of adjacency lists for graph representation: pros and cons?
-      * Sparse versus dense graphs
+   * Ask if they know graph representations. 
+   * Hash tables instead of adjacency lists for graph representation: pros and cons?
+   * Sparse versus dense graphs
 
 
 
