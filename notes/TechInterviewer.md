@@ -205,7 +205,7 @@ What happens when you've been contacted
 
 ---
 
-##Sample: Anagram
+## Sample: Anagram
 From the web: "A word, phrase, or name formed by rearranging the letters of another, such as _cinema_, formed from _iceman_."
 
 ----
