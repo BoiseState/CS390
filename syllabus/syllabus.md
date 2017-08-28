@@ -12,9 +12,9 @@
 **Emails**: nilabmohammadmousa@bosiestate.edu   ajain@boisestate.edu
 
 ### Class Time and Location
-|     Session Dates     | TIme                   | Room    | Office Hours |
-|:---------------------:|------------------------|---------|--------------|
-|8/21/2017 - 10/13/2017 | Monday 4:30PM - 6:30PM | CCP 221 | TBD          |
+|     Session Dates     | Time                   | Room    | Office Hours (Days, Times, Location) |
+|:---------------------:|------------------------|---------|--------------------------------------|
+|8/21/2017 - 10/13/2017 | Monday 4:30PM - 6:30PM | CCP 221 | Wednesday 5:00pm to 6:00pm at CCP 368|
 
 ### Catalog Description 
 CS-HU 390 TECHNICAL INTERVIEWS, JOBS, AND CAREERS (1-0-1)(F). Prepare students
