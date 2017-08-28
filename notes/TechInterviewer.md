@@ -36,7 +36,7 @@ Mark Bastian
 
 ----
 
-#Reality
+# Reality
 * You have a diverse set of needs, desires, skills, and interests
 * I have a diverse set of needs, problems, and opportunities
 * Both of us are happiest when we can align what we are looking for
