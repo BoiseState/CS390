@@ -310,11 +310,11 @@ public class Anagram {
 (def encode 
   (comp frequencies cs/lower-case #(cs/replace % #"\W" "")))
 
-(defn anagram [s0 s1]
+(defn anagram? [s0 s1]
   (= (encode s0) (encode s1)))
 
-(anagram "dessert" "desert")
-(anagram "I am Lord Voldemort!" "Tom Marvolo Riddle")
+(anagram? "dessert" "desert")
+(anagram? "I am Lord Voldemort!" "Tom Marvolo Riddle")
 ````
 
 ---
