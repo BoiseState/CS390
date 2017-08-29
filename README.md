@@ -28,5 +28,6 @@ https://github.com/BoiseState/CS-HU390/blob/master/notes/lesson_plans.md
 * Mike Shelton (iVinciHealth)
 * Jan-Michael Jordan (Micron)
 * Jerek Andersen (Clearwater Analytics)
+* Mark Bastian (Clearwater Analytics)
 
 
