@@ -9,7 +9,7 @@
 **Office**: CCP 355 (Amit)   
 **Phone**: (208)426-3821 (Amit)   
 **Websit**e: http://github.com/BoiseState/CS-HU390  
-**Emails**: nilabmohammadmousa@bosiestate.edu   ajain@boisestate.edu
+**Emails**: nilabmohammadmousa@boisestate.edu   ajain@boisestate.edu
 
 ### Class Time and Location
 |     Session Dates     | Time                   | Room    | Office Hours (Days, Times, Location) |
