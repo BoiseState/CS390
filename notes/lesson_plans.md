@@ -144,7 +144,8 @@ Review relevant Recursion and Memoization concepts and enable students to gain w
 ## Lesson 6 
 ### Lesson Title: Mock Interviews
 ### Learning Objective
-Practice makes perfect. Create a realistic setup for students to be given a coding challenge with a marker and dry erase board. The more comfortable students become coding on the whiteboard, map out strategy, and communicate thoughts the hesitant they'll be at the interview.
+Practice makes perfect. Create a realistic setup for students to be given a coding challenge with a marker and dry erase board. Make students become more comfortable with coding on the whiteboard, mapoing out strategy, and communicating 
+their thought process during an interview.
 
 ### Pre-Class Preparation
 #### Instructor
