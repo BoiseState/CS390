@@ -35,6 +35,7 @@ https://github.com/BoiseState/CS-HU390/blob/master/notes/lesson_plans.md
 #### Mock Interviews 10/2
 * Jillian Hamilton (Clearwater) 10/02/2017 
 * Kai Boschma (Clearwater) 10/02/2017
+* Shannon Heck (Cradlepoint) 10/02/2017
 
 #### Industry Panel 10/9
 * Jerek Andersen (Clearwater Analytics) 10/9/2017  
