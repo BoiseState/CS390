@@ -34,6 +34,7 @@ in the class
     public double volume()
     public String toString()
 ```
+
     * Write a loop that creates 10 boxes with random width, height, depth (within the range 1 - 10) that are all empty. Keep track of the box with the largest volume and print out the details of the box at the end.
 
     * Modify the above code snippet so that it creates an array of box objects so that we can keep track of the boxes.
