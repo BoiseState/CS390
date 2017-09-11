@@ -25,9 +25,9 @@ https://github.com/BoiseState/CS-HU390/blob/master/notes/lesson_plans.md
 ### Industry volunteers
 * Ben Neely bmneely@gmail.com (Kount)
 * Jen Kniss jen@forsta.io (Forsta.io)
-* Mike Shelton (iVinciHealth)
-* Jan-Michael Jordan (Micron)
-* Jerek Andersen (Clearwater Analytics)
+* Mike Shelton (iVinciHealth) 9/25/2017
+* Jan-Michael Jordan (Micron) 9/25/2017
+* Jerek Andersen (Clearwater Analytics) 10/9/2017
 * Mark Bastian (Clearwater Analytics)
 * Jane Miceli (HP) 9/25/2017
 
