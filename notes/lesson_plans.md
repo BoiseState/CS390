@@ -115,7 +115,7 @@ Review relevant Algorithms and Big-O concepts and enable students to gain whiteb
 * Assign reading material for next class:  
 [Read pages 82-86 Cracking the Coding Interview 6th ed] 
 * Watch mock interview at url:
-  [https://www.coursera.org/learn/cs-tech-interview/lecture/M5aGs/appendix-full-length-mock-phone-interview]{:target="_blank"}
+  https://www.coursera.org/learn/cs-tech-interview/lecture/M5aGs/appendix-full-length-mock-phone-interview
 
 
 ### Resources 
