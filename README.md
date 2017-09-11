@@ -22,13 +22,25 @@ https://github.com/BoiseState/CS-HU390/blob/master/notes/lesson_plans.md
 * Produce future fair interviewers   
 * Start long-term career path discussion 
 
-### Industry volunteers
-* Ben Neely bmneely@gmail.com (Kount)
-* Jen Kniss jen@forsta.io (Forsta.io)
+### Industry Volunteers
+
+#### Technical Interviews Presentation 8/28
+* Mark Bastian (Clearwater Analytics)
+
+#### Mock Interviews 9/25
 * Mike Shelton (iVinciHealth) 9/25/2017
 * Jan-Michael Jordan (Micron) 9/25/2017
-* Jerek Andersen (Clearwater Analytics) 10/9/2017
-* Mark Bastian (Clearwater Analytics)
 * Jane Miceli (HP) 9/25/2017
+
+#### Mock Interviews 10/2
+* Jillian Hamilton (Clearwater) 10/02/2017 
+
+#### Industry Panel 10/9
+* Jerek Andersen (Clearwater Analytics) 10/9/2017  
+
+#### Unassigned 
+* Ben Neely bmneely@gmail.com (Kount)
+* Jen Kniss jen@forsta.io (Forsta.io)
+
 
 
