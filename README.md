@@ -29,5 +29,6 @@ https://github.com/BoiseState/CS-HU390/blob/master/notes/lesson_plans.md
 * Jan-Michael Jordan (Micron)
 * Jerek Andersen (Clearwater Analytics)
 * Mark Bastian (Clearwater Analytics)
+* Jane Miceli (HP) 9/25/2017
 
 
