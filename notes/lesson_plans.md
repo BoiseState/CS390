@@ -116,6 +116,10 @@ Review relevant Algorithms and Big-O concepts and enable students to gain whiteb
 [Read pages 82-86 Cracking the Coding Interview 6th ed] 
 * Watch mock interview at url:
   https://www.coursera.org/learn/cs-tech-interview/lecture/M5aGs/appendix-full-length-mock-phone-interview
+* Watch Big O Notation at url:
+  https://www.youtube.com/watch?v=V6mKVRU1evU
+* Watch Big O Notation (from the author of our textbook) at url:
+  https://www.youtube.com/watch?v=v4cd1O4zkGw 
 
 
 ### Resources 
