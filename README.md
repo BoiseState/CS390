@@ -40,6 +40,7 @@ https://github.com/BoiseState/CS-HU390/blob/master/notes/lesson_plans.md
 
 #### Industry Panel 10/9
 * Jerek Andersen (Clearwater Analytics) 10/9/2017  
+* Conrad Kennington (Kount) 10/9/2017  
 
 #### Unassigned 
 * Ben Neely bmneely@gmail.com (Kount)
