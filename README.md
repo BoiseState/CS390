@@ -38,7 +38,7 @@ https://github.com/BoiseState/CS-HU390/blob/master/notes/lesson_plans.md
 * Jillian Hamilton (Clearwater) 10/02/2017 
 * Kai Boschma (Clearwater) 10/02/2017
 * Shannon Heck (Cradlepoint) 10/02/2017
-* Walton Hoops (ImpachGroup) 10/2/2017
+* Walton Hoops (ImpactGroup) 10/2/2017
 * Cody Andrus (Clearwater) 10/2/2017
 
 #### Industry Panel 10/9
