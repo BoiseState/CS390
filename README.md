@@ -32,16 +32,19 @@ https://github.com/BoiseState/CS-HU390/blob/master/notes/lesson_plans.md
 * Jan-Michael Jordan (Micron) 9/25/2017
 * Jane Miceli (HP) 9/25/2017
 * Kenny Ballou (HomeCU) 9/25/2017
+* Daniel Brouwer (Clearwater) 9/25/2017
 
 #### Mock Interviews 10/2
 * Jillian Hamilton (Clearwater) 10/02/2017 
 * Kai Boschma (Clearwater) 10/02/2017
 * Shannon Heck (Cradlepoint) 10/02/2017
 * Walton Hoops (ImpachGroup) 10/2/2017
+* Cody Andrus (Clearwater) 10/2/2017
 
 #### Industry Panel 10/9
 * Jerek Andersen (Clearwater Analytics) 10/9/2017  
 * Conrad Kennington (Kount) 10/9/2017  
+* Yasmin Sahaf (HP) 10/9/2017
 
 #### Unassigned 
 * Ben Neely bmneely@gmail.com (Kount)
