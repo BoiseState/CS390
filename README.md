@@ -31,6 +31,7 @@ https://github.com/BoiseState/CS-HU390/blob/master/notes/lesson_plans.md
 * Mike Shelton (iVinciHealth) 9/25/2017
 * Jan-Michael Jordan (Micron) 9/25/2017
 * Jane Miceli (HP) 9/25/2017
+* Kenny Ballou (HomeCU) 9/25/2017
 
 #### Mock Interviews 10/2
 * Jillian Hamilton (Clearwater) 10/02/2017 
