@@ -1,4 +1,4 @@
-﻿##Sample Questions from Amit
+﻿#Sample Questions from Amit
 * Explain the difference between a class and an object (for Java or C#)
 * Explain the difference between an interface and a class (for Java or C#)
 * What is the difference between a static variable and an instance variable?
@@ -41,6 +41,8 @@ it is empty or full.
 
   * Discuss how to implement a doubly-linked list? That is, show declarations and selected method headers. Do the same for a binary tree.
 
+  * **Check Permutation**: Given two strings, write a method to decide if one is a permutation of the other. What is the runtime of your solution?
+
   * Design an algorithm that finds the index of the first 1 from a sorted array of 0’s and 1s. Just provide the idea without the code. What is the time complexity in big-Oh notation?
 
   * Given an unsorted set with n keys. Determine if there are two key values that sum up to exactly x. What is the complexity of your algorithm?
@@ -52,7 +54,7 @@ it is empty or full.
 
 
 
-####Sample Google interview questions
+#Sample additional interview questions for systems engineer
 
 
 1. What is the opposite function of malloc() in C?
