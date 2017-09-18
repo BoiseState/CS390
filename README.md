@@ -45,6 +45,7 @@ https://github.com/BoiseState/CS-HU390/blob/master/notes/lesson_plans.md
 * Jerek Andersen (Clearwater Analytics) 10/9/2017  
 * Conrad Kennington (Kount) 10/9/2017  
 * Yasmin Sahaf (HP) 10/9/2017
+* Sabrina McIntyre (Cradlepoint) 10/9/2017
 
 #### Unassigned 
 * Ben Neely bmneely@gmail.com (Kount)
