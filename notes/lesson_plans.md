@@ -91,6 +91,7 @@ Review relevant Data Structures concepts and enable students to gain whiteboardi
 
 ### Resources 
 [1] https://www.hackerrank.com/  
+[2] https://www.linkedin.com/pulse/10-must-know-algorithms-data-structures-software-pablo-g-cisneros/
   
 ---
 

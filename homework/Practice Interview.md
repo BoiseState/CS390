@@ -43,7 +43,7 @@ it is empty or full.
 
   * **Check Permutation**: Given two strings, write a method to decide if one is a permutation of the other. What is the runtime of your solution?
 
-  * Design an algorithm that finds the index of the first 1 from a sorted array of 0’s and 1s. Just provide the idea without the code. What is the time complexity in big-Oh notation?
+  * Design an algorithm that finds the index of the first 1 from a sorted array of 0’s and 1s. What is the time complexity of your solution in big-Oh notation?
 
   * Given an unsorted set with n keys. Determine if there are two key values that sum up to exactly x. What is the complexity of your algorithm?
   * Given a sorted set with n keys. Can you design a faster algorithm for the above problem?
