@@ -46,6 +46,7 @@ https://github.com/BoiseState/CS-HU390/blob/master/notes/lesson_plans.md
 * Conrad Kennington (Kount) 10/9/2017  
 * Yasmin Sahaf (HP) 10/9/2017
 * Sabrina McIntyre (Cradlepoint) 10/9/2017
+* Sandy Dunn (Blue Cross of Idaho) 10/9/2017
 
 #### Unassigned 
 * Ben Neely bmneely@gmail.com (Kount)
