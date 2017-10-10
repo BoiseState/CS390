@@ -42,15 +42,15 @@ https://github.com/BoiseState/CS-HU390/blob/master/notes/lesson_plans.md
 * Cody Andrus (Clearwater) 10/2/2017
 
 #### Industry Panel 10/9
-* Jerek Andersen (Clearwater Analytics) 10/9/2017  
-* Conrad Kennington (Kount) 10/9/2017  
-* Yasmin Sahaf (HP) 10/9/2017
-* Sabrina McIntyre (Cradlepoint) 10/9/2017
-* Sandy Dunn (Blue Cross of Idaho) 10/9/2017 [Blog on career building](https://sites.google.com/view/thoughtsoncareerbuilding/home)
+* Jerek Andersen (Clearwater Analytics) 
+* Conrad Kennington (Kount) 
+* Yasmin Sahaf (HP) 
+* Sabrina McIntyre (Cradlepoint) 
+* Sandy Dunn (Blue Cross of Idaho) -- [Blog on career building](https://sites.google.com/view/thoughtsoncareerbuilding/home)
 
 #### Unassigned 
-* Ben Neely bmneely@gmail.com (Kount)
-* Jen Kniss jen@forsta.io (Forsta.io)
+* Ben Neely (Kount)
+* Jen Kniss (Forsta.io)
 
 
 
