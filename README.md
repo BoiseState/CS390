@@ -28,18 +28,18 @@ https://github.com/BoiseState/CS-HU390/blob/master/notes/lesson_plans.md
 * Mark Bastian (Clearwater Analytics)
 
 #### Mock Interviews 9/25
-* Mike Shelton (iVinciHealth) 9/25/2017
-* Jan-Michael Jordan (Micron) 9/25/2017
-* Jane Miceli (HP) 9/25/2017
-* Kenny Ballou (HomeCU) 9/25/2017
-* Daniel Brouwer (Clearwater) 9/25/2017
+* Mike Shelton (iVinciHealth) 
+* Jan-Michael Jordan (Micron) 
+* Jane Miceli (HP) 
+* Kenny Ballou (HomeCU) 
+* Daniel Brouwer (Clearwater) 
 
 #### Mock Interviews 10/2
-* Jillian Hamilton (Clearwater) 10/02/2017 
-* Kai Boschma (Clearwater) 10/02/2017
-* Shannon Heck (Cradlepoint) 10/02/2017
-* Walton Hoops (ImpactGroup) 10/2/2017
-* Cody Andrus (Clearwater) 10/2/2017
+* Jillian Hamilton (Clearwater) 
+* Kai Boschma (Clearwater) 
+* Shannon Heck (Cradlepoint) 
+* Walton Hoops (ImpactGroup) 
+* Cody Andrus (Clearwater) 
 
 #### Industry Panel 10/9
 * Jerek Andersen (Clearwater Analytics) 
