@@ -53,4 +53,7 @@ https://github.com/BoiseState/CS-HU390/blob/master/notes/lesson_plans.md
 * Jen Kniss (Forsta.io)
 
 
+### Boise Software Ecosystem
 
+See the following link for a list of local tech companies: [Boise Software
+Ecosystem](https://www.google.com/maps/d/u/0/viewer?mid=1nNKoUeUyjujd4V6AxXOwGac6AMs&hl=en_US&ll=43.61937734812595%2C-116.27849019067384&z=11)
