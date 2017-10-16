@@ -55,6 +55,7 @@ Set expectations about technical and behavioral interviews.
 * Complete reading assignment given during last class   
 
 ### In-Class Activities 
+0) Review of reading assignment
 1) Instructor presents a PDF presentation on on technical interviews.  
 2) Discuss TED talk about body language by Amy Cuddy.
 3) Have the guest speaker give a talk about technical interviews.
@@ -80,6 +81,7 @@ Review relevant Data Structures concepts and enable students to gain whiteboardi
 * Complete reading assignment given during last class   
 
 ### In-Class Activities 
+0) Review of reading assignment
 1) Review Data Structures
 2) Ask for a volunteer for whiteboarding a coding challenge  
 3) Introduce www.hackerrank.com
@@ -108,6 +110,7 @@ Review relevant Algorithms and Big-O concepts and enable students to gain whiteb
 * Complete reading assignment given during last class   
 
 ### In-Class Activities 
+0) Review of reading assignment
 1) Review Algorithms and Big-O
 2) Ask for a volunteer for whiteboarding a coding challenge  
 
