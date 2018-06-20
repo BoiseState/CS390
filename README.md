@@ -49,6 +49,7 @@ https://github.com/BoiseState/CS-HU390/blob/master/notes/lesson_plans.md
 * Sandy Dunn (Blue Cross of Idaho) -- [Blog on career building](https://sites.google.com/view/thoughtsoncareerbuilding/home)
 
 #### Unassigned 
+* Karla Ducharme (IBM)
 * Ben Neely (Kount)
 * Jen Kniss (Forsta.io)
 
