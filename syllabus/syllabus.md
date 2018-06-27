@@ -1,5 +1,5 @@
 ### CS-HU390: Technical Interviews, Jobs and Careers
-### Fall 2017
+### Fall 2018
 ### Boise State University
 
 
@@ -14,7 +14,7 @@
 ### Class Time and Location
 |     Session Dates     | Time                   | Room    | Office Hours (Days, Times, Location) |
 |:---------------------:|------------------------|---------|--------------------------------------|
-|8/21/2017 - 10/13/2017 | Monday 4:30PM - 6:30PM | CCP 221 | Wednesday 5:00pm to 6:00pm at CCP 368|
+|8/21/2017 - 10/13/2017 | Tue Thu 4:30PM - 5:45PM | CCP 259 | TBD  |
 
 ### Catalog Description 
 CS-HU 390 TECHNICAL INTERVIEWS, JOBS, AND CAREERS (1-0-1)(F). Prepare students
@@ -42,12 +42,11 @@ Gayle Laakmann McDowell.
 ### Course Topic Outline
 **Week 1:** Technical writing (Resumes, Cover letters, Email)  
 **Week 2:** Technical and Behavioral Interviews  
-**Week 3:** *Labor Day Holiday*   
-**Week 4:** Review of Data Structures  
-**Week 5:** Review of Algorithms  
+**Week 3:** Review of Data Structures  
+**Week 4:** Review of Algorithms  
+**Week 5:** Mock Interviews  
 **Week 6:** Mock Interviews  
-**Week 7:** Mock Interviews  
-**Week 8:** Careers Discussion  
+**Week 7:** Careers Discussion  
 
 ### Schedule (Tentative)
 | Week # | Date  | Topic                                                        |
@@ -66,8 +65,7 @@ Gayle Laakmann McDowell.
 ### Grading Policy 
 This class is graded as a pass/fail course in which you’ll received a final grade of P or
 F. Note that a grade of F will impact your GPA. Passing grade is satisfactory work, equivalent
-to 70% or higher. Your grade will be computed based
-on the following:
+to 70% or higher. Your grade will be computed based on the following:
 
 * Attendance - 50% 
 * Class participation - 50% 
