@@ -42,7 +42,7 @@ https://github.com/BoiseState/CS-HU390/blob/master/notes/lesson_plans.md
 * Cody Andrus (Clearwater) 
 
 #### Industry Panel 10/9
-* Jerek Andersen (Clearwater Analytics) 
+* Jerek Anderson (Clearwater Analytics) 
 * Conrad Kennington (Kount) 
 * Yasmin Sahaf (HP) 
 * Sabrina McIntyre (Cradlepoint) 
