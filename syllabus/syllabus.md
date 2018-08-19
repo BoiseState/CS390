@@ -1,6 +1,6 @@
-### CS-HU390: Technical Interviews, Jobs and Careers
-### Fall 2018
-### Boise State University
+# CS-HU390: Technical Interviews, Jobs and Careers
+## Fall 2018
+## Boise State University
 
 
 ### Contact Information 
@@ -51,14 +51,13 @@ Gayle Laakmann McDowell.
 ### Schedule (Tentative)
 | Week # | Date  | Topic                                                        |
 |--------|-------|--------------------------------------------------------------|
-| 1      | 08/21 | Resume workshop                                              |
-| 2      | 08/28 | Technical Interviews, Behavioral Questions & Soft Skills     |
-| 3      | 09/04 | *Labor Day Holiday*                                          |
-| 4      | 09/11 | Data Structures, Algorithms, and Big-O                       |
-| 5      | 09/18 | More Algorithms, Recursion and Memoization                                    |
-| 6      | 09/25 | Mock Interviews                                              |
-| 7      | 10/02 | Mock Interviews                                              |
-| 8      | 10/09 | Careers: Finding a Good Fit and Negotiating [Industry Panel] |
+| 1      | 08/21, 08/23 | Resume workshop                                              |
+| 2      | 08/28, 09/30 | Technical Interviews, Behavioral Questions & Soft Skills     |
+| 3      | 09/04, 09/06 | Data Structures, Algorithms, and Big-O                       |
+| 4      | 09/11, 09/13 | More Algorithms, Recursion and Memoization                                    |
+| 5      | 09/18, 09/20 | Mock Interviews                                              |
+| 6      | 09/25, 09/27 | Mock Interviews                                              |
+| 7      | 10/02, 10/04 | Careers: Finding a Good Fit and Negotiating [Industry Panel] |
 
 
 
