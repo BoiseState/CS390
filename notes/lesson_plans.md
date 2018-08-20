@@ -124,34 +124,15 @@ Review relevant Algorithms and Big-O concepts and enable students to gain whiteb
   https://www.youtube.com/watch?v=V6mKVRU1evU
 * Watch Big O Notation (from the author of our textbook) at url:
   https://www.youtube.com/watch?v=v4cd1O4zkGw 
+* Assign reading material for next class:  
+[Re-read chapters 1,2,3 Cracking the Coding Interview 6th ed] 
+
 
 
 ### Resources 
 ---
 
 ## Lesson 5 
-### Lesson Title: Problem Solving: Recursion and Memoization
-### Learning Objective
-Review relevant Recursion and Memoization concepts and enable students to gain whiteboarding experience with coding interview questions.
-
-### Pre-Class Preparation
-#### Instructor
-* Select coding problems to go over during class 
-
-#### Students
-### In-Class Activities 
-1) Review Recursion and Memoization
-2) Ask for a volunteer for whiteboarding a coding challenge  
-
-### Wrap Up
-* Assign coding problems from www.hackerrank.com  
-* Assign reading material for next class:  
-[Re-read chapters 1,2,3 Cracking the Coding Interview 6th ed] 
-
-### Resources 
----
-
-## Lesson 6 
 ### Lesson Title: Mock Interviews
 ### Learning Objective
 Practice makes perfect. Create a realistic setup for students to be given a coding challenge
@@ -177,7 +158,7 @@ whiteboard, mapping out strategy, and communicating their thought process during
 ### Resources 
 ---
 
-## Lesson 7 
+## Lesson 6 
 ### Lesson Title: Mock Interviews
 ### Learning Objective
 Practice makes perfect. Create a realistic setup for students to be given a coding challenge
@@ -203,7 +184,7 @@ whiteboard, mapping out strategy, and communicating their thought process during
 ### Resources 
 ---
 
-## Lesson 8 
+## Lesson 7 
 ### Lesson Title: Careers Discussion: Finding a Good Fit and Negotiating [Industry Panel]
 ### Learning Objective
 Provide valuable learning opportunity from experienced industry members. 
