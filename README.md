@@ -35,16 +35,17 @@ Ecosystem](https://www.google.com/maps/d/u/0/viewer?mid=1nNKoUeUyjujd4V6AxXOwGac
 #### Mock Interviews  9/18
 
 #### Mock Interviews  9/20
+* Karla Ducharme (IBM)
 
 #### Mock Interviews  9/25
 
 #### Mock Interviews 9/27
 * Alecia Hoobing (VisitPay)
+* Karla Ducharme (IBM)
 
 #### Industry Panel  
 
 #### Unassigned 
-* Karla Ducharme (IBM)
 * Ben Neely (Kount)
 * Jen Kniss (Forsta.io)
 * Mike Shelton (VisitPay) 
