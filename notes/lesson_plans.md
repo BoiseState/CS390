@@ -2,15 +2,15 @@
 ---
 
 ## Lesson 1 
-### Lesson Title: Technical writing (Resumes/Cover letters/ Email)
+### Lesson Title: Technical writing (Resumes/Cover letters/Email)
 ### Learning Objective
 Help students create professional resumes they can use to apply for computer science internships and full-time positions.
 
 ### Pre-Class Preparation
 #### Instructor
 * Send an email to all students that they should bring 3-4 copies of their current resume to first class
-* Gather information about upcoming career fairs and companies attending for class announcements
-  (Fall 2018: University Career Fair is 17th Oct, Engineering Career Fair is 13th  Nov)
+* Gather information about upcoming career fairs and companies attending for class announcements:
+  Fall 2018: University Career Fair is 17th Oct (Wed), Engineering Career Fair is 13th Nov (Tue)
 * Prepare KSA worksheet encouraging students to reflect on how their work, classroom, and life experiences have provided the student with the skills identified in the KSA Category Description document [2]
 
 #### Students
