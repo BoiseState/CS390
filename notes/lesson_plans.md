@@ -1,7 +1,7 @@
 # CS-HU390 Lesson Plans
 ---
 
-## Lesson 1 
+## Week 1 
 ### Lesson Title: Technical writing (Resumes/Cover letters/Email)
 ### Learning Objective
 Help students create professional resumes they can use to apply for computer science internships and full-time positions.
@@ -39,7 +39,7 @@ Help students create professional resumes they can use to apply for computer sci
 ---
 
 
-## Lesson 2 
+## Week 2 
 ### Lesson Title: Technical and Behavioral Interviews
 ### Learning Objective
 Set expectations about technical and behavioral interviews.
@@ -68,7 +68,7 @@ Set expectations about technical and behavioral interviews.
 ---
 
 
-## Lesson 3 
+## Week 3 
 ### Lesson Title: Problem Solving: Data Structures
 ### Learning Objective
 Review relevant Data Structures concepts and enable students to gain whiteboarding experience with coding interview questions.
@@ -97,7 +97,7 @@ Review relevant Data Structures concepts and enable students to gain whiteboardi
   
 ---
 
-## Lesson 4 
+## Week 4 
 ### Lesson Title: Problem Solving: Algorithms and Big-O
 ### Learning Objective
 Review relevant Algorithms and Big-O concepts and enable students to gain whiteboarding experience with coding interview questions.
@@ -132,7 +132,7 @@ Review relevant Algorithms and Big-O concepts and enable students to gain whiteb
 ### Resources 
 ---
 
-## Lesson 5 
+## Week 5 
 ### Lesson Title: Mock Interviews
 ### Learning Objective
 Practice makes perfect. Create a realistic setup for students to be given a coding challenge
@@ -158,7 +158,7 @@ whiteboard, mapping out strategy, and communicating their thought process during
 ### Resources 
 ---
 
-## Lesson 6 
+## Week 6 
 ### Lesson Title: Mock Interviews
 ### Learning Objective
 Practice makes perfect. Create a realistic setup for students to be given a coding challenge
@@ -184,7 +184,7 @@ whiteboard, mapping out strategy, and communicating their thought process during
 ### Resources 
 ---
 
-## Lesson 7 
+## Week 7 
 ### Lesson Title: Careers Discussion: Finding a Good Fit and Negotiating [Industry Panel]
 ### Learning Objective
 Provide valuable learning opportunity from experienced industry members. 
