@@ -57,8 +57,8 @@ Ecosystem](https://www.google.com/maps/d/u/0/viewer?mid=1nNKoUeUyjujd4V6AxXOwGac
 * Kai Boschma (Clearwater) 
 * Shannon Heck (Cradlepoint) 
 * Walton Hoops (ImpactGroup) 
-* Cody Andrus (Clearwater) 
-
+* Cody Andrus (Clearwater)   
+* Madia Mohammad Mousa (HP) 
 * Jerek Anderson (Clearwater Analytics) 
 * Conrad Kennington (Kount) 
 * Yasmin Sahaf (HP) 
