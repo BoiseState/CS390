@@ -334,11 +334,11 @@ public class Anagram {
 ---
 
 ### Sample OO Question: Animals
-Create animal API
+Create Animal API
 
 ----
 
-### The Dangers of Object Oriented Design
+### Textbook Object Oriented Design
 Canonical Questions:
 * Animals
 * Shapes
@@ -346,9 +346,52 @@ Canonical Questions:
 
 ----
 
+## Basic Expectations
+* Inheritance
+* Encapsulation
+* Polymorphism
+
+----
+
 ### OO In Real Life
 * Design a sensing system
 * Model a financial security
+
+----
+
+### Olympic Data
+I have ~300,000 records like this:
+````
+ {:sport "Swimming",
+  :noc "USA",
+  :age 31,
+  :sex "M",
+  :name "Michael Fred Phelps, II",
+  :city "Rio de Janeiro",
+  :medal "Gold",
+  :year 2016,
+  :season "Summer",
+  :event "Swimming Men's 4 x 100 metres Medley Relay",
+  :team "United States",
+  :weight 91,
+  :id 94406,
+  :games "2016 Summer",
+  :height 193}
+````
+Design a type hierarchy
+* What are the classes, methods, etc.?
+* How many medals?
+
+----
+
+## What about?
+* Dependency Injection
+* Inversion of Control
+* Factories
+* Builders
+* Other GoF Patterns
+* Immutability/Value Classes
+* Complexity
 
 ---
 
