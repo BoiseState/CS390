@@ -36,6 +36,8 @@ Ecosystem](https://www.google.com/maps/d/u/0/viewer?mid=1nNKoUeUyjujd4V6AxXOwGac
 
 #### Mock Interviews  9/20
 * Karla Ducharme (IBM)
+* Jan-Michael Jordan (Micron) 
+* Jillian Hamilton (Clearwater) 
 
 #### Mock Interviews  9/25
 
@@ -49,11 +51,9 @@ Ecosystem](https://www.google.com/maps/d/u/0/viewer?mid=1nNKoUeUyjujd4V6AxXOwGac
 * Ben Neely (Kount)
 * Jen Kniss (Forsta.io)
 * Mike Shelton (VisitPay) 
-* Jan-Michael Jordan (Micron) 
 * Jane Miceli (HP) 
 * Kenny Ballou (HomeCU) 
 * Daniel Brouwer (Clearwater) 
-* Jillian Hamilton (Clearwater) 
 * Kai Boschma (Clearwater) 
 * Shannon Heck (Cradlepoint) 
 * Walton Hoops (ImpactGroup) 
