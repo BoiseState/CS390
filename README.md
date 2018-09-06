@@ -52,7 +52,7 @@ Ecosystem](https://www.google.com/maps/d/u/0/viewer?mid=1nNKoUeUyjujd4V6AxXOwGac
 * Alecia Hoobing (VisitPay)
 * Karla Ducharme (IBM)
 
-#### Industry Panel  
+#### Industry Panel 10/4
 
 #### Unassigned 
 * Ben Neely (Kount)
