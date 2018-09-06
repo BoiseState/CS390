@@ -42,7 +42,8 @@ Ecosystem](https://www.google.com/maps/d/u/0/viewer?mid=1nNKoUeUyjujd4V6AxXOwGac
 #### Mock Interviews  9/20
 * Karla Ducharme (IBM)
 * Jan-Michael Jordan (Micron) 
-* Jillian Hamilton (Clearwater) 
+* Jillian Hamilton (Clearwater)
+* Camille Roy (Clearwater)
 
 #### Mock Interviews  9/25
 * Nick Bell (Paylocity)
