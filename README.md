@@ -53,19 +53,17 @@ Ecosystem](https://www.google.com/maps/d/u/0/viewer?mid=1nNKoUeUyjujd4V6AxXOwGac
 * Karla Ducharme (IBM)
 
 #### Industry Panel 10/4
+* Jerek Anderson (Clearwater Analytics) 
 
 #### Unassigned 
 * Ben Neely (Kount)
 * Jen Kniss (Forsta.io)
 * Mike Shelton (VisitPay) 
 * Jane Miceli (HP) 
-* Kenny Ballou (HomeCU) 
 * Daniel Brouwer (Clearwater) 
 * Shannon Heck (Cradlepoint) 
 * Walton Hoops (ImpactGroup) 
 * Cody Andrus (Clearwater)   
-* Madia Mohammad Mousa (HP) 
-* Jerek Anderson (Clearwater Analytics) 
 * Conrad Kennington (Kount) 
 * Yasmin Sahaf (HP) 
 * Sabrina McIntyre (Cradlepoint) 
