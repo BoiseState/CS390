@@ -56,6 +56,7 @@ Ecosystem](https://www.google.com/maps/d/u/0/viewer?mid=1nNKoUeUyjujd4V6AxXOwGac
 
 #### Industry Panel 10/4
 * Jerek Anderson (Clearwater Analytics) 
+* Conrad Kennington (Kount) 
 
 #### Unassigned 
 * Ben Neely (Kount)
@@ -66,7 +67,6 @@ Ecosystem](https://www.google.com/maps/d/u/0/viewer?mid=1nNKoUeUyjujd4V6AxXOwGac
 * Shannon Heck (Cradlepoint) 
 * Walton Hoops (ImpactGroup) 
 * Cody Andrus (Clearwater)   
-* Conrad Kennington (Kount) 
 * Yasmin Sahaf (HP) 
 * Sabrina McIntyre (Cradlepoint) 
 * Sandy Dunn (Blue Cross of Idaho) -- [Blog on career building](https://sites.google.com/view/thoughtsoncareerbuilding/home)
