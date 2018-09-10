@@ -38,6 +38,8 @@ Ecosystem](https://www.google.com/maps/d/u/0/viewer?mid=1nNKoUeUyjujd4V6AxXOwGac
 * Gabe Pearhill (Clearwater)
 * Madia Mohammad Mousa (HP)
 * Kenny Ballou (HomeCU)
+* Bogie Szeszko (Paylocity) [Product Group Leader, Product Technology]
+* Dan Schiff (Paylocity)   [Technology Practice Leader, Product Technology]
 
 #### Mock Interviews  9/20
 * Karla Ducharme (IBM)
