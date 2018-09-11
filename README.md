@@ -46,6 +46,7 @@ Ecosystem](https://www.google.com/maps/d/u/0/viewer?mid=1nNKoUeUyjujd4V6AxXOwGac
 * Jan-Michael Jordan (Micron) 
 * Jillian Hamilton (Clearwater)
 * Camille Roy (Clearwater)
+* Shannon Heck (Cradlepoint) 
 
 #### Mock Interviews  9/25
 * Nick Bell (Paylocity)
@@ -67,7 +68,6 @@ Ecosystem](https://www.google.com/maps/d/u/0/viewer?mid=1nNKoUeUyjujd4V6AxXOwGac
 * Mike Shelton (VisitPay) 
 * Jane Miceli (HP) 
 * Daniel Brouwer (Clearwater) 
-* Shannon Heck (Cradlepoint) 
 * Walton Hoops (ImpactGroup) 
 * Cody Andrus (Clearwater)   
 * Yasmin Sahaf (HP) 
