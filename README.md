@@ -61,6 +61,7 @@ Ecosystem](https://www.google.com/maps/d/u/0/viewer?mid=1nNKoUeUyjujd4V6AxXOwGac
 * Jerek Anderson (Clearwater Analytics) 
 * Conrad Kennington (Kount) 
 * Sandy Dunn (Blue Cross of Idaho) -- [Blog on career building](https://sites.google.com/view/thoughtsoncareerbuilding/home)
+* Penny Garrison (Cradlepoint)
 
 #### Unassigned 
 * Ben Neely (Kount)
