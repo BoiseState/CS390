@@ -125,7 +125,7 @@ Review relevant Algorithms and Big-O concepts and enable students to gain whiteb
 * Watch Big O Notation (from the author of our textbook) at url:
   https://www.youtube.com/watch?v=v4cd1O4zkGw 
 * Assign reading material for next class:  
-[Re-read chapters 1,2,3 Cracking the Coding Interview 6th ed] 
+[Re-read chapters 4,5,7 from Cracking the Coding Interview 6th ed] 
 
 
 
@@ -153,7 +153,7 @@ whiteboard, mapping out strategy, and communicating their thought process during
 ### Wrap Up
 * Assign coding problems from www.hackerrank.com  
 * Assign reading material for next class:  
-[Read chapters 10 and 11 Cracking the Coding Interview 6th ed] 
+[Read chapter 8 from  Cracking the Coding Interview 6th ed] 
 
 ### Resources 
 ---
@@ -199,7 +199,7 @@ Provide valuable learning opportunity from experienced industry members.
 * Prepare questions for industry volunteers
 
 ### In-Class Activities 
-1) Moderate industry panel of 3-5 expereinced volunteers with Q/A
+1) Moderate industry panel of 3-5 experienced volunteers with Q/A
 2) Closing remarks 
 
 ### Wrap Up
