@@ -60,6 +60,7 @@ Ecosystem](https://www.google.com/maps/d/u/0/viewer?mid=1nNKoUeUyjujd4V6AxXOwGac
 * Karla Ducharme (IBM)
 * Cody Smith (Clearwater) 
 * Igor Autin (Clearwater) 
+* Daniel Brouwer (Clearwater) 
 
 #### Industry Panel 10/4
 * Jerek Anderson (Clearwater Analytics) 
@@ -72,9 +73,7 @@ Ecosystem](https://www.google.com/maps/d/u/0/viewer?mid=1nNKoUeUyjujd4V6AxXOwGac
 * Ben Neely (Kount)
 * Jen Kniss (Forsta.io)
 * Mike Shelton (VisitPay) 
-* Daniel Brouwer (Clearwater) 
 * Walton Hoops (ImpactGroup) 
-* Cody Andrus (Clearwater)   
 * Yasmin Sahaf (HP) 
 * Sabrina McIntyre (Cradlepoint) 
 
