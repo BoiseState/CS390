@@ -36,8 +36,8 @@ Ecosystem](https://www.google.com/maps/d/u/0/viewer?mid=1nNKoUeUyjujd4V6AxXOwGac
 * Nick Bell (Paylocity)
 * Keiko Neufeld (Clearwater)
 * Gabe Pearhill (Clearwater)
+* Igor Autin (Clearwater) 
 * Madia Mohammad Mousa (HP)
-* Kenny Ballou (HomeCU)
 * Bogie Szeszko (Paylocity) [Product Group Leader, Product Technology]
 * Dan Schiff (Paylocity)   [Technology Practice Leader, Product Technology]
 
@@ -52,23 +52,26 @@ Ecosystem](https://www.google.com/maps/d/u/0/viewer?mid=1nNKoUeUyjujd4V6AxXOwGac
 * Nick Bell (Paylocity)
 * Kelsey Dody (Clearwater)
 * Michael Thurmond (Impact Group)
+* Marina Autina (Clearwater)
+* Logan Smith (Clearwater) 
 
 #### Mock Interviews 9/27
 * Alecia Hoobing (VisitPay)
 * Karla Ducharme (IBM)
 * Cody Smith (Clearwater) 
+* Igor Autin (Clearwater) 
 
 #### Industry Panel 10/4
 * Jerek Anderson (Clearwater Analytics) 
 * Conrad Kennington (Kount) 
 * Sandy Dunn (Blue Cross of Idaho) -- [Blog on career building](https://sites.google.com/view/thoughtsoncareerbuilding/home)
 * Penny Garrison (Cradlepoint)
+* Jane Miceli (HP) 
 
 #### Unassigned 
 * Ben Neely (Kount)
 * Jen Kniss (Forsta.io)
 * Mike Shelton (VisitPay) 
-* Jane Miceli (HP) 
 * Daniel Brouwer (Clearwater) 
 * Walton Hoops (ImpactGroup) 
 * Cody Andrus (Clearwater)   
