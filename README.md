@@ -58,7 +58,6 @@ Ecosystem](https://www.google.com/maps/d/u/0/viewer?mid=1nNKoUeUyjujd4V6AxXOwGac
 #### Mock Interviews 9/27
 * Alecia Hoobing (VisitPay)
 * Karla Ducharme (IBM)
-* Cody Smith (Clearwater) 
 * Igor Autin (Clearwater) 
 * Daniel Brouwer (Clearwater) 
 
