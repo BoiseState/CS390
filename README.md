@@ -65,8 +65,8 @@ Ecosystem](https://www.google.com/maps/d/u/0/viewer?mid=1nNKoUeUyjujd4V6AxXOwGac
 * Jerek Anderson (Clearwater Analytics) 
 * Conrad Kennington (Kount) 
 * Sandy Dunn (Blue Cross of Idaho) -- 
-**  [Advice on interviews, jobs and careers](https://sites.google.com/view/tech-interviews-jobs-careers/home)
-**  [Another blog on career building](https://sites.google.com/view/thoughtsoncareerbuilding/home)
+  * [Advice on interviews, jobs and careers](https://sites.google.com/view/tech-interviews-jobs-careers/home)
+  * [Another blog on career building](https://sites.google.com/view/thoughtsoncareerbuilding/home)
 * Penny Garrison (Cradlepoint)
 * Jane Miceli (Micron) 
 
