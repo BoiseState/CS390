@@ -22,7 +22,7 @@ for computer science technical interviews. Demonstrate how knowledge gained in
 classes can be used to solve new problems. Encourage teamwork and peer feedback.
 Learn how to negotiate jobs and manage career growth. A Hatchery Unit (HU) course
 is a short course to develop specific professional skills for computer science.
-(Pass/Fail) PREREQ: CS 230, CS 253, CS 321.
+(Pass/Fail) PREREQ: CS-HU 130, CS 253, CS 321.
 
 ### Goals
 
@@ -66,8 +66,10 @@ This class is graded as a pass/fail course in which you’ll received a final gr
 F. Note that a grade of F will impact your GPA. Passing grade is satisfactory work, equivalent
 to 70% or higher. Your grade will be computed based on the following:
 
-* Attendance - 50% 
-* Class participation - 50% 
+* Attendance and Participation - 50% 
+* HackerRank Homework - 25%
+* In-class coding presentation - 25%
+
 
 ### Academic Honesty
 The University's goal is to foster an intellectual atmosphere that produces educated,
