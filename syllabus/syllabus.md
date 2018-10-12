@@ -66,9 +66,10 @@ This class is graded as a pass/fail course in which you’ll received a final gr
 F. Note that a grade of F will impact your GPA. Passing grade is satisfactory work, equivalent
 to 70% or higher. Your grade will be computed based on the following:
 
-* Attendance and Participation - 50% 
-* HackerRank Homework - 25%
-* In-class coding presentation - 25%
+* Attendance and Participation - 40% 
+* In-class quizzes - 20%
+* HackerRank Homework - 20%
+* In-class coding presentation - 20%
 
 
 ### Academic Honesty
