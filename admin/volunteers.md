@@ -7,7 +7,7 @@ Michael Sila - msila @clearwateranalytics.com
 Saikat Roy - sroy@ clearwateranalytics.com   
 Kelsey Dody - kelseydody @clearwateranalytics.com  
 Michael Hachigian - machigian @clearwateranalytics.com  
-Jake Blow - jblow @clearwateranalytics.com  
+Jake Blow - jblow @clearwateranalytics.com or jakeblowdeveloper @gmail.com  
 Jillian Hamilton - jillian @clearwateranalytics.com  
 Adam Charlton - acharlton @clearwateranalytics.com  
 Sarah Munds - smunds @clearwateranalytics.com  
