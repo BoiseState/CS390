@@ -7,14 +7,15 @@
 
 **Instructors**: Nilab M. Mousa, Dr. Amit Jain  
 **Office**: CCP 355 (Amit)   
+**Office hours**: See website
 **Phone**: (208)426-3821 (Amit)   
 **Websit**e: http://github.com/BoiseState/CS-HU390  
 **Emails**: nilabmohammadmousa@boisestate.edu   ajain@boisestate.edu
 
 ### Class Time and Location
-|     Session Dates     | Time                   | Room    | Office Hours (Days, Times, Location) |
-|:---------------------:|------------------------|---------|--------------------------------------|
-|8/21/2018 - 10/5/2018  | Tue Thu 4:30PM - 5:45PM | CCP 259 | TBD  |
+|     Session Dates     | Time                   | Room    | 
+|:---------------------:|------------------------|---------|
+|8/21/2018 - 10/5/2018  | Tue Thu 4:30PM - 5:45PM | CCP 259 |
 
 ### Catalog Description 
 CS-HU 390 TECHNICAL INTERVIEWS, JOBS, AND CAREERS (1-0-1)(F). Prepare students
