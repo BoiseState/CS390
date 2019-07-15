@@ -15,7 +15,7 @@
 ### Class Time and Location
 |     Session Dates     | Time                   | Room    | 
 |:---------------------:|------------------------|---------|
-|8/21/2018 - 10/5/2018  | Tue Thu 4:30PM - 5:45PM | CCP 259 |
+|8/26/2018 - 10/11/2018 | Tue Thu 4:30PM - 5:45PM | CCP 260 |
 
 ### Catalog Description 
 CS-HU 390 TECHNICAL INTERVIEWS, JOBS, AND CAREERS (1-0-1)(F). Prepare students
@@ -52,13 +52,13 @@ Gayle Laakmann McDowell.
 ### Schedule (Tentative)
 | Week # | Date  | Topic                                                        |
 |--------|-------|--------------------------------------------------------------|
-| 1      | 08/21, 08/23 | Resume workshop                                              |
-| 2      | 08/28, 09/30 | Technical Interviews, Behavioral Questions & Soft Skills     |
-| 3      | 09/04, 09/06 | Data Structures, Algorithms, and Big-O                       |
-| 4      | 09/11, 09/13 | More Algorithms, Recursion and Memoization                                    |
-| 5      | 09/18, 09/20 | Mock Interviews                                              |
-| 6      | 09/25, 09/27 | Mock Interviews                                              |
-| 7      | 10/02, 10/04 | Careers: Finding a Good Fit and Negotiating [Industry Panel] |
+| 1      | 08/27, 08/29 | Resume workshop                                              |
+| 2      | 08/03, 09/05 | Technical Interviews, Behavioral Questions & Soft Skills     |
+| 3      | 09/10, 09/12 | Data Structures, Algorithms, and Big-O                       |
+| 4      | 09/17, 09/19 | More Algorithms, Recursion and Memoization                                    |
+| 5      | 09/24, 09/26 | Mock Interviews                                              |
+| 6      | 10/01, 10/03 | Mock Interviews                                              |
+| 7      | 10/08, 10/10 | Careers: Finding a Good Fit and Negotiating [Industry Panel] |
 
 
 
