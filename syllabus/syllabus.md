@@ -15,7 +15,7 @@
 ### Class Time and Location
 |     Session Dates     | Time                   | Room    | 
 |:---------------------:|------------------------|---------|
-|8/26/2018 - 10/11/2018 | Tue Thu 4:30PM - 5:45PM | CCP 260 |
+|8/26/2019 - 10/11/2019 | Tue Thu 4:30PM - 5:45PM | CCP 260 |
 
 ### Catalog Description 
 CS-HU 390 TECHNICAL INTERVIEWS, JOBS, AND CAREERS (1-0-1)(F). Prepare students
