@@ -1,5 +1,8 @@
 # Links
 
+## Here’s an example of the perfect cover letter, according to Harvard career experts 
+https://www.cnbc.com/2019/07/23/example-of-the-perfect-cover-letter-according-to-harvard-career-experts.html
+
 ## Know what questions cannot be asked in a job interview. 
 <http://blogs.findlaw.com/law_and_life/2010/08/10-things-you-cant-be-asked-at-a-job-interview.html>
 <http://employment.findlaw.com/hiring-process/illegal-interview-questions-and-female-applicants.html>
