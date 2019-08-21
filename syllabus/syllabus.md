@@ -53,7 +53,7 @@ Gayle Laakmann McDowell.
 | Week # | Date  | Topic                                                        |
 |--------|-------|--------------------------------------------------------------|
 | 1      | 08/27, 08/29 | Resume workshop                                              |
-| 2      | 08/03, 09/05 | Technical Interviews, Behavioral Questions & Soft Skills     |
+| 2      | 09/03, 09/05 | Technical Interviews, Behavioral Questions & Soft Skills     |
 | 3      | 09/10, 09/12 | Data Structures, Algorithms, and Big-O                       |
 | 4      | 09/17, 09/19 | More Algorithms, Recursion and Memoization                                    |
 | 5      | 09/24, 09/26 | Mock Interviews                                              |
@@ -67,10 +67,10 @@ This class is graded as a pass/fail course in which you’ll received a final gr
 F. Note that a grade of F will impact your GPA. Passing grade is satisfactory work, equivalent
 to 70% or higher. Your grade will be computed based on the following:
 
-* Attendance and Participation - 40% 
-* In-class quizzes - 20%
+* Attendance and Participation - 50% 
 * HackerRank Homework - 20%
-* In-class coding presentation - 20%
+* Interviews - 20%
+* Resume - 10%
 
 
 ### Academic Honesty
