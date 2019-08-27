@@ -79,15 +79,14 @@ literate people. Because cheating and plagiarism are at odds with that goal, tho
 actions shall not be tolerated in any form. If a student engages in academic
 dishonesty, the student may be dismissed from the class and may receive a failing
 grade. Other penalties may include suspension or expulsion from the University.
-For more information, please visit the University's web page regarding academic integrity. 
-
+For more information, please visit the University's web page regarding academic integrity:
 https://www.boisestate.edu/registrar/general-information-and-policies/academic-integrity/
 
 
 ### University Attendance Policy
 Students are expected to attend classes regularly. Missing one of two first classes
-may result in your automatic withdrawal from the class. (See
-https://www.boisestate.edu/policy/academic-affairs-faculty-administration/policy-title-faculty-initiated-withdrawal/)
+may result in your automatic withdrawal from the class. See the policy at:
+https://www.boisestate.edu/policy/academic-affairs-faculty-administration/policy-title-faculty-initiated-withdrawal/
 
 ### Educational Access Center 
 Students with temporary or permanent disabilities needing accommodations to fully participate
