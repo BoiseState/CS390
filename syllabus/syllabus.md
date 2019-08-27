@@ -81,19 +81,19 @@ dishonesty, the student may be dismissed from the class and may receive a failin
 grade. Other penalties may include suspension or expulsion from the University.
 For more information, please visit the University's web page regarding academic integrity. 
 
-http://registrar.boisestate.edu/general-information-and-policies/academic-integrity/
+https://www.boisestate.edu/registrar/general-information-and-policies/academic-integrity/
 
 
 ### University Attendance Policy
 Students are expected to attend classes regularly. Missing one of two first classes
 may result in your automatic withdrawal from the class. (See
-http://policy.boisestate.edu/academic-affairs-faculty-administration/policy-title-faculty-initiated-withdrawal/)
+https://www.boisestate.edu/policy/academic-affairs-faculty-administration/policy-title-faculty-initiated-withdrawal/)
 
-### Disability Office
-Students with disabilities needing accommodations to fully participate in this class
-should contact the Disability Resource Center (DRC). All accommodations must be
-approved through the DRC prior to being implemented. To learn more about the
-accommodation process, visit the DRC’s website http://drc.boisestate.edu/
+### Educational Access Center 
+Students with temporary or permanent disabilities needing accommodations to fully participate
+in this class should contact the Educational Access Center (EAC). All accommodations must
+be approved through the EAC prior to being implemented. To learn more about the accommodation
+process, visit the EAC’s website http://www.boisestate.edu/eac/
 
 
 ### Building Safety
