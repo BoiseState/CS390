@@ -25,7 +25,6 @@ Help students create professional resumes they can use to apply for computer sci
 
 ### Wrap Up
 1) Hand-out KSA worksheet 
-2) Watch TED talk "Your body language may shape who you are | Amy Cuddy" [3]
 3) Instructor collects resumes for feedback.
 4) Assign reading material for next class.  
 [Read pages 2-37 Cracking the Coding Interview 6th ed]  
@@ -34,7 +33,6 @@ Help students create professional resumes they can use to apply for computer sci
 
 [1] https://github.com/BoiseState/CS-HU390/blob/master/notes/cs-hu-390-lecture-week-1.pdf  
 [2] https://github.com/BoiseState/CS-HU390/blob/master/notes/KSA%20Category%20Descriptions.pdf  
-[3] https://www.youtube.com/watch?v=Ks-_Mh1QhMc  
 
 ---
 
