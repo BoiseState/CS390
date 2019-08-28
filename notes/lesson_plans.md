@@ -45,18 +45,13 @@ Set expectations about technical and behavioral interviews.
 ### Pre-Class Preparation
 #### Instructor
 * Prepare presentation on technical interviews.
-* Prepare talking points from TED talk "Your body language may shape who you are | Amy Cuddy" 
-* Email industry volunteers about possibly coming to class and giving a 20 minute talk about how their company conducts interviews 
 
 #### Students
-* Watch TED talk "Your body language may shape who you are | Amy Cuddy"
 * Complete reading assignment given during last class   
 
 ### In-Class Activities 
 0) Review of reading assignment
 1) Instructor presents a PDF presentation on on technical interviews.  
-2) Discuss TED talk about body language by Amy Cuddy.
-3) Have the guest speaker give a talk about technical interviews.
 
 ### Wrap Up
 * Assign reading material for next class:  
