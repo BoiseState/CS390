@@ -1,6 +1,6 @@
 
 Five samples of good resumes from CS students. These have all received favorable reactions from
-industry in terms of format and layout. These were all done using the ShareLaTeX website, which is
+industry in terms of format and layout. These were all done using the Overleaf website, which is
 free to use.
 
 Please note that we changed the names and contact information to preserve privacy but in the process
