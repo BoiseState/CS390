@@ -1,6 +1,12 @@
 Fall 2019 (Clearwater)
 ========
 
+Industry Panel (confirmed)
+=============
+Jerek Anderson (Clearwater Analytics)
+
+Mock Interviewers
+================
 Keiko Neufeld - kneufeld @clearwateranalytics.com   
 Olivia Poland - opoland @clearwateranalytics.com   
 Michael Sila - msila @clearwateranalytics.com   
@@ -66,6 +72,6 @@ Fall 2018 Industry Volunteers
 * Jen Kniss (Forsta.io)
 * Mike Shelton (VisitPay) 
 * Walton Hoops (ImpactGroup) 
-* Yasmin Sahaf (HP) 
+
 * Sabrina McIntyre (Cradlepoint) 
 
