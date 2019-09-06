@@ -3,7 +3,10 @@ Fall 2019 (Clearwater)
 
 Industry Panel (confirmed)
 =============
-Jerek Anderson (Clearwater Analytics)
+Jerek Anderson (Director of Software Development, Clearwater Analytics)  Yes
+Dave Smith     (CTO, VisitPay)  Yes
+Penny Garrison (Director of Engineering, Cradlepoint) Pending
+Jane Miceli    (Title, Micron) Pending
 
 Mock Interviewers
 ================
@@ -13,7 +16,7 @@ Michael Sila - msila @clearwateranalytics.com
 Saikat Roy - sroy@ clearwateranalytics.com   
 Kelsey Dody - kelseydody @clearwateranalytics.com  
 Michael Hachigian - machigian @clearwateranalytics.com  
-Jake Blow - jblow @clearwateranalytics.com or jakeblowdeveloper @gmail.com  
+Jake Blow - jblow @clearwateranalytics.com or jakeblowdeveloper@gmail.com  
 Jillian Hamilton - jillian @clearwateranalytics.com  
 Adam Charlton - acharlton @clearwateranalytics.com  
 Sarah Munds - smunds @clearwateranalytics.com  
@@ -61,6 +64,7 @@ Fall 2018 Industry Volunteers
 * Jerek Anderson (Clearwater Analytics) 
 * Conrad Kennington (Kount) 
 * Sandy Dunn (Blue Cross of Idaho) -- 
+
   * [Advice on interviews, jobs and careers](https://sites.google.com/view/tech-interviews-jobs-careers/home)
   * [Another blog on career building](https://sites.google.com/view/thoughtsoncareerbuilding/home)
 * Penny Garrison (Cradlepoint)
