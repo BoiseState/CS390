@@ -5,7 +5,7 @@ Industry Panel (confirmed)
 =============
 Jerek Anderson (Director of Software Development, Clearwater Analytics)  Yes
 Dave Smith     (CTO, VisitPay)  Yes
-Penny Garrison (Director of Engineering, Cradlepoint) Pending
+Penny Garrison (Director of Engineering, Cradlepoint) Yes
 Jane Miceli    (Title, Micron) Pending
 
 Mock Interviewers
