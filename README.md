@@ -15,7 +15,7 @@ CS-HU 390: Technical Interviews, Jobs and Careers
 https://github.com/BoiseState/CS-HU390/blob/master/syllabus/syllabus.md
 
 ### Course notes and assignments
-https://github.com/BoiseState/CS-HU390/blob/master/notes/lesson_plans.md
+https://github.com/BoiseState/CS-HU390/blob/master/lesson-plans/lesson_plans.md
 
 ### Student/Industry Benefits
 * Help _all_ students navigate the interview process 
