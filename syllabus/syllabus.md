@@ -1,21 +1,20 @@
 # CS-HU390: Technical Interviews, Jobs and Careers
-## Fall 2019
+## Fall 2020
 ## Boise State University
 
 
 ### Contact Information 
 
-**Instructors**: Nilab M. Mousa, Dr. Amit Jain  
-**Office**: CCP 355 (Amit)   
-**Office hours**: See website
-**Phone**: (208)426-3821 (Amit)   
+**Instructors**: Nilab M. Mousa 
+**Office**: Remote   
+**Office hours**: By Appointment 
 **Websit**e: http://github.com/BoiseState/CS-HU390  
-**Emails**: nilabmohammadmousa@boisestate.edu   ajain@boisestate.edu
+**Emails**: nilabmohammadmousa@boisestate.edu
 
 ### Class Time and Location
 |     Session Dates     | Time                   | Room    | 
 |:---------------------:|------------------------|---------|
-|8/26/2019 - 10/11/2019 | Tue Thu 4:30PM - 5:45PM | CCP 260 |
+|Aug 24, 2020- Oct 9, 2020 | Tue Thu 4:30PM - 5:45PM | Remote |
 
 ### Catalog Description 
 CS-HU 390 TECHNICAL INTERVIEWS, JOBS, AND CAREERS (1-0-1)(F). Prepare students
@@ -52,13 +51,13 @@ Gayle Laakmann McDowell.
 ### Schedule (Tentative)
 | Week # | Date  | Topic                                                        |
 |--------|-------|--------------------------------------------------------------|
-| 1      | 08/27, 08/29 | Resume workshop                                              |
-| 2      | 09/03, 09/05 | Technical Interviews, Behavioral Questions & Soft Skills     |
-| 3      | 09/10, 09/12 | Data Structures, Algorithms, and Big-O                       |
-| 4      | 09/17, 09/19 | More Algorithms, Recursion and Memoization                                    |
-| 5      | 09/24, 09/26 | Mock Interviews                                              |
-| 6      | 10/01, 10/03 | Mock Interviews                                              |
-| 7      | 10/08, 10/10 | Careers: Finding a Good Fit and Negotiating [Industry Panel] |
+| 1      | 08/25, 08/27 | Resume workshop                                              |
+| 2      | 09/01, 09/03 | Technical Interviews, Behavioral Questions & Soft Skills     |
+| 3      | 09/08, 09/10 | Data Structures, Algorithms, and Big-O                       |
+| 4      | 09/15, 09/17 | More Algorithms, Recursion and Memoization                                    |
+| 5      | 09/22, 09/24 | Mock Interviews                                              |
+| 6      | 10/29, 10/01 | Mock Interviews                                              |
+| 7      | 10/06, 10/08 | Careers: Finding a Good Fit and Negotiating [Industry Panel] |
 
 
 
