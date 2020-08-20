@@ -5,11 +5,11 @@
 
 ### Contact Information 
 
-**Instructors**: Nilab M. Mousa 
+**Instructors**: Nilab M. Mousa  
 **Office**: Remote   
-**Office hours**: By Appointment 
-**Websit**e: http://github.com/BoiseState/CS-HU390  
-**Emails**: nilabmohammadmousa@boisestate.edu
+**Office hours**: By Appointment    
+**Website**: http://github.com/BoiseState/CS-HU390   
+**Email**: nilabmohammadmousa@boisestate.edu 
 
 ### Class Time and Location
 |     Session Dates     | Time                   | Room    | 
