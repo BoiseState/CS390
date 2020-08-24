@@ -1,4 +1,4 @@
-# CS-HU390 Lesson Plans
+# CS-HU390 Lesson Plans (Remote Version)
 ---
 
 ## Week 1 
@@ -8,8 +8,12 @@ Help students create professional resumes they can use to apply for computer sci
 
 ### Pre-Class Preparation
 #### Instructor
-* Send an email to all students that they should bring 3-4 copies of their current resume to first class
+* Send an email to all students that they email copies of their current resumes before the first class
 * Gather information about upcoming career fairs and companies attending for class announcements:
+* Fall 2020: 
+  ** Virtual Career Fair: October 14 and 15, 10am–2pm, on both days
+  ** College of Engineering VIRTUAL Career Fair: Tuesday, October 27, 1-5pm
+  ** https://www.boisestate.edu/coen/news-and-events/career-fairs/ 
 * Prepare KSA worksheet encouraging students to reflect on how their work, classroom, and life experiences have provided the student with the skills identified in the KSA Category Description document [2]
 
 #### Students
