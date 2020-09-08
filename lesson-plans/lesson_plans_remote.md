@@ -32,6 +32,12 @@ Help students create professional resumes they can use to apply for computer sci
 4) Assign reading material for next class.  
 [Read pages 2-37 Cracking the Coding Interview 6th ed]  
 
+### Homework Summary for Week 2:
+* Sign up for pramp.com and sign up for a behavioral interview
+* Watch video and/or read pages 60-81 from our textbook
+* Sign up for hackerrank.com (homework coming soon)
+* Deadline for final resume & behavioral interview email screenshot - Sept 15th 2020
+
 ### Resources  
 
 [1] https://github.com/BoiseState/CS-HU390/blob/master/notes/cs-hu-390-lecture-week-1.pdf  
@@ -59,6 +65,11 @@ Set expectations about technical and behavioral interviews.
 ### Wrap Up
 * Assign reading material for next class:  
 [Read pages 60-81 Cracking the Coding Interview 6th ed] 
+
+### Homework Summary for Week 3:
+* One question of your choice completed from https://www.hackerrank.com/interview/interview-preparation-kit
+* Deadline for final resume & behavioral interview email screenshot - Sept 15th 2020
+* [Read pages 38-59 Cracking the Coding Interview 6th ed]
 
 ### Resources 
 ---
