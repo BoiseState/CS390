@@ -1,0 +1,32 @@
+
+
+Sample 30 minute interview from a reecent student (2020)
+
+Programming:
+
+Asked me to print fizz, buzz, or fizzbuzz based on whether the number was divisible by 3, 5, or both
+He also asked about the difference between iteration and recursion
+
+Cloud questions:
+They asked me about the advantages and disadvantages of the cloud
+Object storage
+Securing data in the cloud
+Iaas
+Paas
+Saas
+Containerization
+What experience do I have on the cloud
+
+Software Life Cycle:
+What types of version control have I used
+What does CICD stand for
+What types of CI and CD am I familiar with
+
+Databases:
+How do you join tables with a sql query
+How would you join tables with a NoSQL query
+How would you make sure data was secure in a SQL database
+
+Front End:
+How would I describe the advantages of Angular to somebody who only knows vanilla javascript
+What technologies have I used on the front-end
