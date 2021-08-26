@@ -67,7 +67,7 @@ F. Note that a grade of F will impact your GPA. Passing grade is satisfactory wo
 to 70% or higher. Your grade will be computed based on the following:
 
 * Attendance and Participation - 50% 
-* HackerRank Homework - 20%
+* HackerRank/LeetCode Homework - 20%
 * Interviews - 20%
 * Resume - 10%
 
