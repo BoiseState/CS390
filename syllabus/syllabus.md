@@ -1,5 +1,5 @@
 # CS-HU390: Technical Interviews, Jobs and Careers
-## Fall 2020
+## Fall 2021
 ## Boise State University
 
 
