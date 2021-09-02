@@ -9,12 +9,12 @@ Help students create professional resumes they can use to apply for computer sci
 ### Pre-Class Preparation
 #### Instructor
 * Send an email to all students that they email copies of their current resumes before the first class
+* Create slack channel for the class CSHU390Fall20xx
 * Gather information about upcoming career fairs and companies attending for class announcements:
-* Fall 2020: 
-  * Virtual Career Fair: October 14 and 15, 10am–2pm, on both days
-  * College of Engineering VIRTUAL Career Fair: Tuesday, October 27, 1-5pm
+* Fall: 
+  * Virtual/In Person Career Fair
   * https://www.boisestate.edu/coen/news-and-events/career-fairs/ 
-* Prepare KSA worksheet encouraging students to reflect on how their work, classroom, and life experiences have provided the student with the skills identified in the KSA Category Description document [2]
+  * Prepare KSA worksheet encouraging students to reflect on how their work, classroom, and life experiences have provided the student with the skills identified in the KSA Category Description document [2]
 
 #### Students
 * Print and bring copies of their resumes to first class
@@ -36,7 +36,7 @@ Help students create professional resumes they can use to apply for computer sci
 * Sign up for pramp.com and sign up for a behavioral interview
 * Watch video and/or read pages 60-81 from our textbook
 * Sign up for hackerrank.com (homework coming soon)
-* Deadline for final resume & behavioral interview email screenshot - Sept 15th 2020
+* Deadline for final resume & behavioral interview email screenshot - deadline posted on slack channel for the class 
 
 ### Resources  
 
@@ -67,8 +67,8 @@ Set expectations about technical and behavioral interviews.
 [Read pages 60-81 Cracking the Coding Interview 6th ed] 
 
 ### Homework Summary for Week 3:
-* One question of your choice completed from https://www.hackerrank.com/interview/interview-preparation-kit
-* Deadline for final resume & behavioral interview email screenshot - Sept 15th 2020
+* One question of your choice completed from https://www.hackerrank.com/interview/interview-preparation-kit or leetcode.com 
+* Deadline for final resume & behavioral interview email screenshot - deadline posted on slack channel for the class 
 * [Read pages 38-59 Cracking the Coding Interview 6th ed]
 
 ### Resources 
@@ -101,6 +101,7 @@ Review relevant Data Structures concepts and enable students to gain whiteboardi
 ### Resources 
 [1] https://www.hackerrank.com/  
 [2] https://www.linkedin.com/pulse/10-must-know-algorithms-data-structures-software-pablo-g-cisneros/
+[3] leetcode.com
   
 ---
 
