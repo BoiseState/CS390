@@ -56,7 +56,7 @@ Gayle Laakmann McDowell.
 | 3      | 09/07, 09/09 | Data Structures, Algorithms, and Big-O                       |
 | 4      | 09/14, 09/16 | More Algorithms, Recursion and Memoization                                    |
 | 5      | 09/21, 09/23 | Mock Interviews                                              |
-| 6      | 10/28, 10/30 | Mock Interviews                                              |
+| 6      | 10/28, 09/30 | Mock Interviews                                              |
 | 7      | 10/05, 10/07 | Careers: Finding a Good Fit and Negotiating [Industry Panel] |
 
 
