@@ -22,7 +22,7 @@ for computer science technical interviews. Demonstrate how knowledge gained in
 classes can be used to solve new problems. Encourage teamwork and peer feedback.
 Learn how to negotiate jobs and manage career growth. A Hatchery Unit (HU) course
 is a short course to develop specific professional skills for computer science.
-(Pass/Fail) PREREQ: CS-HU 130, CS 253, CS 321.
+(Pass/Fail) PREREQ: CS 230 and CS 253 and CS 321.
 
 ### Goals
 
