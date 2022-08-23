@@ -53,7 +53,7 @@ Gayle Laakmann McDowell.
 |--------|-------|--------------------------------------------------------------|
 | 1      | 08/23, 08/25 | Resume workshop                                              |
 | 2      | 08/30, 09/01 | Technical Interviews, Behavioral Questions & Soft Skills     |
-| 3      | 09/08 | Data Structures, Algorithms, and Big-O                       |
+| 3      | 09/06, 09/08 | Data Structures, Algorithms, and Big-O                       |
 | 4      | 09/13, 09/15 | More Algorithms, Recursion and Memoization                                    |
 | 5      | 09/20, 09/22 | Mock Interviews                                              |
 | 6      | 10/27, 09/29 | Mock Interviews                                              |
