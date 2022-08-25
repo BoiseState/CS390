@@ -5,11 +5,12 @@
 
 ### Contact Information
 
-**Instructors**: Nilab M. Mousa, Ryan Mitchell
+**Instructors**: Nilab M. Mousa
+**Industry partner**: Ryan Mitchell
 **Office**: Remote
 **Office hours**: By Appointment
 **Website**: http://github.com/BoiseState/CS-HU390
-**Email**: nilabmohammadmousa@boisestate.edu, ryanmitchell@microsoft.com
+**Email**: nilabmohammadmousa@boisestate.edu, mitchellryan1265@gmail.com
 
 ### Class Time and Location
 |     Session Dates     | Time                   | Room    |
