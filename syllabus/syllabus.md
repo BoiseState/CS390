@@ -5,12 +5,12 @@
 
 ### Contact Information
 
-**Instructors**: Nilab M. Mousa
-**Industry partner**: Ryan Mitchell
-**Office**: Remote
-**Office hours**: By Appointment
-**Website**: http://github.com/BoiseState/CS-HU390
-**Email**: nilabmohammadmousa@boisestate.edu, mitchellryan1265@gmail.com
+**Instructors**: Nilab M. Mousa  
+**Industry partner**: Ryan Mitchell  
+**Office**: Remote  
+**Office hours**: By Appointment  
+**Website**: http://github.com/BoiseState/CS-HU390  
+**Email**: nilabmohammadmousa@boisestate.edu, mitchellryan1265@gmail.com  
 
 ### Class Time and Location
 |     Session Dates     | Time                   | Room    |
@@ -41,13 +41,13 @@ Gayle Laakmann McDowell.
 
 
 ### Course Topic Outline
-**Week 1:** Technical writing (Resumes, Cover letters, Email)
-**Week 2:** Technical and Behavioral Interviews
-**Week 3:** Review of Data Structures
-**Week 4:** Review of Algorithms
-**Week 5:** Mock Interviews
-**Week 6:** Mock Interviews
-**Week 7:** Careers Discussion
+**Week 1:** Technical writing (Resumes, Cover letters, Email)  
+**Week 2:** Technical and Behavioral Interviews  
+**Week 3:** Review of Data Structures  
+**Week 4:** Review of Algorithms  
+**Week 5:** Mock Interviews  
+**Week 6:** Mock Interviews  
+**Week 7:** Careers Discussion  
 
 ### Schedule (Tentative)
 | Week # | Date  | Topic                                                        |
