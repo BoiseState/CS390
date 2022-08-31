@@ -50,15 +50,15 @@ Gayle Laakmann McDowell.
 **Week 7:** Careers Discussion  
 
 ### Schedule (Tentative)
-| Week # | Date  | Topic                                                        |
-|--------|-------|--------------------------------------------------------------|
-| 1      | 08/23, 08/25 | Resume workshop                                              |
-| 2      | 08/30, 09/01 | Technical Interviews, Behavioral Questions & Soft Skills     |
-| 3      | 09/06, 09/08 | Data Structures, Algorithms, and Big-O                       |
-| 4      | 09/13, 09/15 | More Algorithms, Recursion and Memoization                                    |
-| 5      | 09/20, 09/22 | Mock Interviews                                              |
-| 6      | 10/27, 09/29 | Mock Interviews                                              |
-| 7      | 10/04, 10/06 | Careers: Finding a Good Fit and Negotiating [Industry Panel] |
+| Week # | Date  | Topic                                                        |Homework Due (midnight on Thursday) |
+|--------|-------|--------------------------------------------------------------|-----------------------|
+| 1      | 08/23, 08/25 | Resume workshop                                              |Resume Draft | 
+| 2      | 08/30, 09/01 | Technical Interviews, Behavioral Questions & Soft Skills     |Elevator Pitch | 
+| 3      | 09/06, 09/08 | Data Structures, Algorithms, and Big-O                       |Leetcode #1 | 
+| 4      | 09/13, 09/15 | More Algorithms, Recursion and Memoization                   |Leetcode #2 and final resume| 
+| 5      | 09/20, 09/22 | Mock Interviews                                              |Mock #1 |
+| 6      | 10/27, 09/29 | Mock Interviews                                              |Mock #2 |
+| 7      | 10/04, 10/06 | Careers: Finding a Good Fit and Negotiating [Industry Panel] |Course Eval| 
 
 
 
