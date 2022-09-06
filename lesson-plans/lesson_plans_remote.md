@@ -91,10 +91,10 @@ Review relevant Data Structures concepts and enable students to gain whiteboardi
 0) Review of reading assignment
 1) Review Data Structures
 2) Ask for a volunteer for whiteboarding a coding challenge  
-3) Introduce www.hackerrank.com
+3) Introduce leethub, leetcode.com, and hackerrank.com
 
 ### Wrap Up
-* Assign coding problems from www.hackerrank.com  
+* Assign coding problems from leetcode  
 * Assign reading material for next class:  
 [Read pages 38-59 Cracking the Coding Interview 6th ed] 
 
