@@ -65,7 +65,7 @@ Note that leethub will automatically upload your solved leetcode questions.**
 
 ** Numbers here are counters and they do not correspond to the leetcode problem number.
 
-*** Due date for homework is the Friday of that week, however you have until last the day of the class to submit everything and I will not consider it late. 
+*** The due date for homework is the Friday of that week, however you have until last the day of the class to submit everything and I will not consider it late. 
 
 
 ### Grading Policy
