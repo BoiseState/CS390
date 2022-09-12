@@ -50,7 +50,7 @@ Gayle Laakmann McDowell.
 **Week 7:** Careers Discussion  
 
 ### Schedule (Tentative)
-| Week # | Date         | Topic                                                        | Homework*                | CTCI Reading    |
+| Week # | Date***      | Topic                                                        | Homework*                | CTCI Reading    |
 |--------|--------------|--------------------------------------------------------------|--------------------------|-----------------|
 | 1      | 08/23, 08/25 | Resume workshop                                              |Resume Draft              | None            |
 | 2      | 08/30, 09/01 | Technical Interviews, Behavioral Questions & Soft Skills     |Elevator Pitch            | pages 26-37     |
@@ -61,11 +61,11 @@ Gayle Laakmann McDowell.
 | 7      | 10/04, 10/06 | Careers: Finding a Good Fit and Negotiating [Industry Panel] |Course Eval               | pages 82-85     |
 
 ***Please upload all your homework to your private git repo for this class. This includes Resume Draft, Elevator Pitch, Final Resume, Screenshots of pramp mock interview feedback. So, everything listed above except the course eval. 
-Note that leethub will automatically upload your solved leetcode queestions.**
+Note that leethub will automatically upload your solved leetcode questions.**
 
 ** Numbers here are counters and they do not correspond to the leetcode problem number.
 
-*** Due date for homework is thee Friday of that week, however you have until last day of the class to submit everything and I will not consider it late. 
+*** Due date for homework is the Friday of that week, however you have until last the day of the class to submit everything and I will not consider it late. 
 
 
 ### Grading Policy
