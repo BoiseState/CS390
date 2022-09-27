@@ -1,3 +1,5 @@
+# Grade
+
 | Homework       | Grade |
 |----------------|-------|
 | Resume Draft   |       |
