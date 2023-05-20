@@ -1,4 +1,4 @@
-# CS-HU390: Technical Interviews, Jobs and Careers
+# CS390: Technical Interviews, Jobs and Careers
 ## Fall 2022
 ## Boise State University
 
@@ -9,7 +9,7 @@
 **Industry partner**: Ryan Mitchell  
 **Office**: Remote  
 **Office hours**: By Appointment  
-**Website**: http://github.com/BoiseState/CS-HU390  
+**Website**: http://github.com/BoiseState/CS390  
 **Email**: nilabmohammadmousa@boisestate.edu, mitchellryan1265@gmail.com  
 
 ### Class Time and Location
@@ -18,7 +18,7 @@
 |Aug 22, 2022- Oct 7, 2022 | Tue Thu 4:30PM - 5:45PM | Remote |
 
 ### Catalog Description
-CS-HU 390 TECHNICAL INTERVIEWS, JOBS, AND CAREERS (1-0-1)(F). Prepare students
+CS 390 TECHNICAL INTERVIEWS, JOBS, AND CAREERS (1-0-1)(F). Prepare students
 for computer science technical interviews. Demonstrate how knowledge gained in
 classes can be used to solve new problems. Encourage teamwork and peer feedback.
 Learn how to negotiate jobs and manage career growth. A Hatchery Unit (HU) course

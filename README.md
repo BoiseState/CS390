@@ -1,5 +1,5 @@
-# CS-HU390
-CS-HU 390: Technical Interviews, Jobs and Careers
+# CS 390
+CS 390: Technical Interviews, Jobs and Careers
 
 ### Background
 * Students do not have exposure to the technical interview process  
@@ -12,10 +12,10 @@ CS-HU 390: Technical Interviews, Jobs and Careers
 * demonstrate how knowledge gained in classes can be used to solve new problems 
 
 ### Course Syllabus
-https://github.com/BoiseState/CS-HU390/blob/master/syllabus/syllabus.md
+https://github.com/BoiseState/CS390/blob/master/syllabus/syllabus.md
 
 ### Course notes and assignments
-https://github.com/BoiseState/CS-HU390/blob/master/lesson-plans/lesson_plans.md
+https://github.com/BoiseState/CS390/blob/master/lesson-plans/lesson_plans.md
 
 ### Student/Industry Benefits
 * Help _all_ students navigate the interview process 

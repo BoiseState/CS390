@@ -1,4 +1,4 @@
-# CS-HU390 Lesson Plans (Remote Version)
+# CS390 Lesson Plans (Remote Version)
 ---
 
 ## Week 1 
@@ -40,8 +40,8 @@ Help students create professional resumes they can use to apply for computer sci
 
 ### Resources  
 
-[1] https://github.com/BoiseState/CS-HU390/blob/master/notes/cs-hu-390-lecture-week-1.pdf  
-[2] https://github.com/BoiseState/CS-HU390/blob/master/notes/KSA%20Category%20Descriptions.pdf  
+[1] https://github.com/BoiseState/CS390/blob/master/notes/cs-hu-390-lecture-week-1.pdf  
+[2] https://github.com/BoiseState/CS390/blob/master/notes/KSA%20Category%20Descriptions.pdf  
 
 ---
 
